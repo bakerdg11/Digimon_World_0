@@ -1,0 +1,6383 @@
+fileFormatVersion: 2
+guid: 3ac947546648232459ed2b5e953e010b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4532401529725747128
+    second: Digimon Ultimates_0
+  - first:
+      213: -8000052895769602603
+    second: Digimon Ultimates_1
+  - first:
+      213: -2931856257951233657
+    second: Digimon Ultimates_2
+  - first:
+      213: -1171528314649518906
+    second: Digimon Ultimates_3
+  - first:
+      213: 6146804839782332371
+    second: Digimon Ultimates_4
+  - first:
+      213: 2146069556693763704
+    second: Digimon Ultimates_5
+  - first:
+      213: 8054723484803397557
+    second: Digimon Ultimates_6
+  - first:
+      213: -3347748592697734036
+    second: Digimon Ultimates_7
+  - first:
+      213: -7940881832782487525
+    second: Digimon Ultimates_8
+  - first:
+      213: -7708387427538074575
+    second: Digimon Ultimates_9
+  - first:
+      213: 1736541328449680824
+    second: Digimon Ultimates_10
+  - first:
+      213: 6906269542992158224
+    second: Digimon Ultimates_11
+  - first:
+      213: -4686844359451930645
+    second: Digimon Ultimates_12
+  - first:
+      213: 3953422034004756252
+    second: Digimon Ultimates_13
+  - first:
+      213: -5086927634238689182
+    second: Digimon Ultimates_14
+  - first:
+      213: 2874514765640601272
+    second: Digimon Ultimates_15
+  - first:
+      213: -710670972967911559
+    second: Digimon Ultimates_16
+  - first:
+      213: -1478655147032306954
+    second: Digimon Ultimates_17
+  - first:
+      213: -2833092263778186979
+    second: Digimon Ultimates_18
+  - first:
+      213: -1369712106110945881
+    second: Digimon Ultimates_19
+  - first:
+      213: -8164512220709160686
+    second: Digimon Ultimates_20
+  - first:
+      213: -882448496295309992
+    second: Digimon Ultimates_21
+  - first:
+      213: -340215257954895526
+    second: Digimon Ultimates_22
+  - first:
+      213: -3555208396400300258
+    second: Digimon Ultimates_23
+  - first:
+      213: 5739160161541060199
+    second: Digimon Ultimates_24
+  - first:
+      213: -3354543931793940987
+    second: Digimon Ultimates_25
+  - first:
+      213: -1309096611442653053
+    second: Digimon Ultimates_26
+  - first:
+      213: -4247470304260428810
+    second: Digimon Ultimates_27
+  - first:
+      213: -638573482501094850
+    second: Digimon Ultimates_28
+  - first:
+      213: -5185706033855769042
+    second: Digimon Ultimates_29
+  - first:
+      213: 1335149932685724391
+    second: Digimon Ultimates_30
+  - first:
+      213: 633191156084188413
+    second: Digimon Ultimates_31
+  - first:
+      213: 2987557046643907550
+    second: Digimon Ultimates_32
+  - first:
+      213: -797911026355369940
+    second: Digimon Ultimates_33
+  - first:
+      213: 8290688295353183081
+    second: Digimon Ultimates_34
+  - first:
+      213: -3005130484367535575
+    second: Digimon Ultimates_35
+  - first:
+      213: 4948332523202543202
+    second: Digimon Ultimates_36
+  - first:
+      213: -1824211981523834020
+    second: Digimon Ultimates_37
+  - first:
+      213: -1921679516404015140
+    second: Digimon Ultimates_38
+  - first:
+      213: 8905906622722123799
+    second: Digimon Ultimates_39
+  - first:
+      213: 7938412867184227050
+    second: Digimon Ultimates_40
+  - first:
+      213: -8792109681068755837
+    second: Digimon Ultimates_41
+  - first:
+      213: -7972331124510993793
+    second: Digimon Ultimates_42
+  - first:
+      213: -1506068048598704907
+    second: Digimon Ultimates_43
+  - first:
+      213: 2392819076909131853
+    second: Digimon Ultimates_44
+  - first:
+      213: 5274121776447070176
+    second: Digimon Ultimates_45
+  - first:
+      213: -3547542601374802208
+    second: Digimon Ultimates_46
+  - first:
+      213: -198950878643687987
+    second: Digimon Ultimates_47
+  - first:
+      213: -5266120918289783176
+    second: Digimon Ultimates_48
+  - first:
+      213: -7054059217176803571
+    second: Digimon Ultimates_49
+  - first:
+      213: -506964357389921122
+    second: Digimon Ultimates_50
+  - first:
+      213: 2177163623070512643
+    second: Digimon Ultimates_51
+  - first:
+      213: -6266748850776525943
+    second: Digimon Ultimates_52
+  - first:
+      213: 4543459128391786805
+    second: Digimon Ultimates_53
+  - first:
+      213: -6664412677688949914
+    second: Digimon Ultimates_54
+  - first:
+      213: -4713743717639208717
+    second: Digimon Ultimates_55
+  - first:
+      213: 8832407809478583584
+    second: Digimon Ultimates_56
+  - first:
+      213: -1576661019093152131
+    second: Digimon Ultimates_57
+  - first:
+      213: 2619352925604325078
+    second: Digimon Ultimates_58
+  - first:
+      213: 4870728621528443200
+    second: Digimon Ultimates_59
+  - first:
+      213: 473302820839628533
+    second: Digimon Ultimates_60
+  - first:
+      213: 8731333272712449833
+    second: Digimon Ultimates_61
+  - first:
+      213: 2828365244971320235
+    second: Digimon Ultimates_62
+  - first:
+      213: 3891896326100028143
+    second: Digimon Ultimates_63
+  - first:
+      213: -8472193737112001862
+    second: Digimon Ultimates_64
+  - first:
+      213: 310023744201293352
+    second: Digimon Ultimates_65
+  - first:
+      213: 3420839451694222856
+    second: Digimon Ultimates_66
+  - first:
+      213: -5930062533740740626
+    second: Digimon Ultimates_67
+  - first:
+      213: -2547389712565408130
+    second: Digimon Ultimates_68
+  - first:
+      213: 1857570146480622261
+    second: Digimon Ultimates_69
+  - first:
+      213: -8009686355983943336
+    second: Digimon Ultimates_70
+  - first:
+      213: -214516114683913668
+    second: Digimon Ultimates_71
+  - first:
+      213: 5633181588264256440
+    second: Digimon Ultimates_72
+  - first:
+      213: 6609388264966451185
+    second: Digimon Ultimates_73
+  - first:
+      213: 5969511259867334862
+    second: Digimon Ultimates_74
+  - first:
+      213: 8337652197069583293
+    second: Digimon Ultimates_75
+  - first:
+      213: 3746438634354651692
+    second: Digimon Ultimates_76
+  - first:
+      213: -4743700963571633531
+    second: Digimon Ultimates_77
+  - first:
+      213: -6959138454692036335
+    second: Digimon Ultimates_78
+  - first:
+      213: -2315552772984489651
+    second: Digimon Ultimates_79
+  - first:
+      213: 6717045227972714030
+    second: Digimon Ultimates_80
+  - first:
+      213: 9062322058156767227
+    second: Digimon Ultimates_81
+  - first:
+      213: 5327436606962969103
+    second: Digimon Ultimates_82
+  - first:
+      213: 6508545580685542223
+    second: Digimon Ultimates_83
+  - first:
+      213: 6232101201521441497
+    second: Digimon Ultimates_84
+  - first:
+      213: -8861162871575295363
+    second: Digimon Ultimates_85
+  - first:
+      213: -4936714834404354513
+    second: Digimon Ultimates_86
+  - first:
+      213: -8004634353818949989
+    second: Digimon Ultimates_87
+  - first:
+      213: 5693068264904261925
+    second: Digimon Ultimates_88
+  - first:
+      213: -8234534908732166283
+    second: Digimon Ultimates_89
+  - first:
+      213: 8891504137261226045
+    second: Digimon Ultimates_90
+  - first:
+      213: 1250391547895664543
+    second: Digimon Ultimates_91
+  - first:
+      213: -4940528841855958807
+    second: Digimon Ultimates_92
+  - first:
+      213: 7300556811089679594
+    second: Digimon Ultimates_93
+  - first:
+      213: -5757862437680944024
+    second: Digimon Ultimates_94
+  - first:
+      213: 8342462171983692345
+    second: Digimon Ultimates_95
+  - first:
+      213: -2741775102032203206
+    second: Digimon Ultimates_96
+  - first:
+      213: 7931027566354659024
+    second: Digimon Ultimates_97
+  - first:
+      213: 4428396308721067679
+    second: Digimon Ultimates_98
+  - first:
+      213: -4050619905901958546
+    second: Digimon Ultimates_99
+  - first:
+      213: -2014242915438284824
+    second: Digimon Ultimates_100
+  - first:
+      213: 4455531093916048707
+    second: Digimon Ultimates_101
+  - first:
+      213: 2979336905757222661
+    second: Digimon Ultimates_102
+  - first:
+      213: -6671600682512615733
+    second: Digimon Ultimates_103
+  - first:
+      213: 1063167910979479735
+    second: Digimon Ultimates_104
+  - first:
+      213: -2659768171917369300
+    second: Digimon Ultimates_105
+  - first:
+      213: -1299687200004003488
+    second: Digimon Ultimates_106
+  - first:
+      213: -3564340214240323994
+    second: Digimon Ultimates_107
+  - first:
+      213: 6178035327356677002
+    second: Digimon Ultimates_108
+  - first:
+      213: -8494979370724746606
+    second: Digimon Ultimates_109
+  - first:
+      213: -1798068777672391771
+    second: Digimon Ultimates_110
+  - first:
+      213: -589197840151502887
+    second: Digimon Ultimates_111
+  - first:
+      213: -4400904730064164008
+    second: Digimon Ultimates_112
+  - first:
+      213: 8606822025616993057
+    second: Digimon Ultimates_113
+  - first:
+      213: 3051910418163118082
+    second: Digimon Ultimates_114
+  - first:
+      213: 3934987683244032002
+    second: Digimon Ultimates_115
+  - first:
+      213: -2692311987931402221
+    second: Digimon Ultimates_116
+  - first:
+      213: 7668041126807005849
+    second: Digimon Ultimates_117
+  - first:
+      213: -1802513019668719932
+    second: Digimon Ultimates_118
+  - first:
+      213: -8392185893437769047
+    second: Digimon Ultimates_119
+  - first:
+      213: 4351134565335320399
+    second: Digimon Ultimates_120
+  - first:
+      213: -902552404883667765
+    second: Digimon Ultimates_121
+  - first:
+      213: 5270432880165672309
+    second: Digimon Ultimates_122
+  - first:
+      213: 3517869523755560635
+    second: Digimon Ultimates_123
+  - first:
+      213: 8508304572634745507
+    second: Digimon Ultimates_124
+  - first:
+      213: 8910716149676085359
+    second: Digimon Ultimates_125
+  - first:
+      213: -7891747633494781032
+    second: Digimon Ultimates_126
+  - first:
+      213: 5821057132914020033
+    second: Digimon Ultimates_127
+  - first:
+      213: -5054482228920754168
+    second: Digimon Ultimates_128
+  - first:
+      213: 3276300075071735805
+    second: Digimon Ultimates_129
+  - first:
+      213: 8101916090532628577
+    second: Digimon Ultimates_130
+  - first:
+      213: -8057563903739337520
+    second: Digimon Ultimates_131
+  - first:
+      213: 2360119824484758390
+    second: Digimon Ultimates_132
+  - first:
+      213: 6430729004501902506
+    second: Digimon Ultimates_133
+  - first:
+      213: -3539317725444386958
+    second: Digimon Ultimates_134
+  - first:
+      213: 7175034743445665319
+    second: Digimon Ultimates_135
+  - first:
+      213: 9109922152925540528
+    second: Digimon Ultimates_136
+  - first:
+      213: 6305187803867297099
+    second: Digimon Ultimates_137
+  - first:
+      213: 818083198931567137
+    second: Digimon Ultimates_138
+  - first:
+      213: 6796470481183593729
+    second: Digimon Ultimates_139
+  - first:
+      213: 9001113400479748029
+    second: Digimon Ultimates_140
+  - first:
+      213: -111760203942682293
+    second: Digimon Ultimates_141
+  - first:
+      213: 887503677135751672
+    second: Digimon Ultimates_142
+  - first:
+      213: -6061573984147014362
+    second: Digimon Ultimates_143
+  - first:
+      213: 2550784867404963915
+    second: Digimon Ultimates_144
+  - first:
+      213: 4769967149610303570
+    second: Digimon Ultimates_145
+  - first:
+      213: 3725153541775035179
+    second: Digimon Ultimates_146
+  - first:
+      213: 3156363780257730042
+    second: Digimon Ultimates_147
+  - first:
+      213: -31028309216019659
+    second: Digimon Ultimates_148
+  - first:
+      213: -7594075421825094661
+    second: Digimon Ultimates_149
+  - first:
+      213: 6676397894506942691
+    second: Digimon Ultimates_150
+  - first:
+      213: 8184032471920904837
+    second: Digimon Ultimates_151
+  - first:
+      213: 957649465660664750
+    second: Digimon Ultimates_152
+  - first:
+      213: -47195516951301409
+    second: Digimon Ultimates_153
+  - first:
+      213: -8897545425254940078
+    second: Digimon Ultimates_154
+  - first:
+      213: -4754179955162984310
+    second: Digimon Ultimates_155
+  - first:
+      213: -3572565571672123987
+    second: Digimon Ultimates_156
+  - first:
+      213: -4792292008004536862
+    second: Digimon Ultimates_157
+  - first:
+      213: -2925781344408584448
+    second: Digimon Ultimates_158
+  - first:
+      213: 8198028717449922963
+    second: Digimon Ultimates_159
+  - first:
+      213: -541807173073221536
+    second: Digimon Ultimates_160
+  - first:
+      213: 3708066454741185886
+    second: Digimon Ultimates_161
+  - first:
+      213: 206120485189198096
+    second: Digimon Ultimates_162
+  - first:
+      213: -6961063711234113584
+    second: Digimon Ultimates_163
+  - first:
+      213: 693680296942116060
+    second: Digimon Ultimates_164
+  - first:
+      213: -5409597372788914002
+    second: Digimon Ultimates_165
+  - first:
+      213: 2553401085088563657
+    second: Digimon Ultimates_166
+  - first:
+      213: 6292378927007052694
+    second: Digimon Ultimates_167
+  - first:
+      213: 8757643721404500688
+    second: Digimon Ultimates_168
+  - first:
+      213: -8455632147943054324
+    second: Digimon Ultimates_169
+  - first:
+      213: -1951990215605936302
+    second: Digimon Ultimates_170
+  - first:
+      213: 3262167943060477231
+    second: Digimon Ultimates_171
+  - first:
+      213: 5479375228082197518
+    second: Digimon Ultimates_172
+  - first:
+      213: -2658457682445529247
+    second: Digimon Ultimates_173
+  - first:
+      213: -7227328305913497585
+    second: Digimon Ultimates_174
+  - first:
+      213: -7896736334821793044
+    second: Digimon Ultimates_175
+  - first:
+      213: -1946692205407386648
+    second: Digimon Ultimates_176
+  - first:
+      213: -1347423526318899534
+    second: Digimon Ultimates_177
+  - first:
+      213: -4916664936413028881
+    second: Digimon Ultimates_178
+  - first:
+      213: 5350917289172741232
+    second: Digimon Ultimates_179
+  - first:
+      213: 2972394401294108406
+    second: Digimon Ultimates_180
+  - first:
+      213: 9192135537889667529
+    second: Digimon Ultimates_181
+  - first:
+      213: -100178613733836496
+    second: Digimon Ultimates_182
+  - first:
+      213: -1675151875630391415
+    second: Digimon Ultimates_183
+  - first:
+      213: -7412195700233116469
+    second: Digimon Ultimates_184
+  - first:
+      213: 6183110370041411476
+    second: Digimon Ultimates_185
+  - first:
+      213: -2258222292160778343
+    second: Digimon Ultimates_186
+  - first:
+      213: -3776841965115999969
+    second: Digimon Ultimates_187
+  - first:
+      213: 9123586111165516668
+    second: Digimon Ultimates_188
+  - first:
+      213: 8707805217637052738
+    second: Digimon Ultimates_189
+  - first:
+      213: -1282127938210740550
+    second: Digimon Ultimates_190
+  - first:
+      213: -93029987901598178
+    second: Digimon Ultimates_191
+  - first:
+      213: -1196829554185051125
+    second: Digimon Ultimates_192
+  - first:
+      213: 3299096113039810514
+    second: Digimon Ultimates_193
+  - first:
+      213: -3684972455488991280
+    second: Digimon Ultimates_194
+  - first:
+      213: -8546372898850627887
+    second: Digimon Ultimates_195
+  - first:
+      213: 3867464817098287616
+    second: Digimon Ultimates_196
+  - first:
+      213: 7528057684309715792
+    second: Digimon Ultimates_197
+  - first:
+      213: -5487416768093761294
+    second: Digimon Ultimates_198
+  - first:
+      213: -5647204590321137477
+    second: Digimon Ultimates_199
+  - first:
+      213: -9133761255926937105
+    second: Digimon Ultimates_200
+  - first:
+      213: -8921723782384612391
+    second: Digimon Ultimates_201
+  - first:
+      213: 6006187764854110738
+    second: Digimon Ultimates_202
+  - first:
+      213: 1135683148505713820
+    second: Digimon Ultimates_203
+  - first:
+      213: 4113811879303574959
+    second: Digimon Ultimates_204
+  - first:
+      213: -1529387285805338859
+    second: Digimon Ultimates_205
+  - first:
+      213: -5356382936630394605
+    second: Digimon Ultimates_206
+  - first:
+      213: -8864336456732676874
+    second: Digimon Ultimates_207
+  - first:
+      213: -39358732431746441
+    second: Digimon Ultimates_208
+  - first:
+      213: 6804944930951954303
+    second: Digimon Ultimates_209
+  - first:
+      213: 7417534839382436868
+    second: Digimon Ultimates_210
+  - first:
+      213: -8594163756489436027
+    second: Digimon Ultimates_211
+  - first:
+      213: -2800619100418340746
+    second: Digimon Ultimates_212
+  - first:
+      213: 7417995635456891675
+    second: Digimon Ultimates_213
+  - first:
+      213: -1815694139652997518
+    second: Digimon Ultimates_214
+  - first:
+      213: 5309872042150419607
+    second: Digimon Ultimates_215
+  - first:
+      213: -1178801366750841511
+    second: Digimon Ultimates_216
+  - first:
+      213: 1194290161123457273
+    second: Digimon Ultimates_217
+  - first:
+      213: 7980599311722886953
+    second: Digimon Ultimates_218
+  - first:
+      213: -4756828044557233687
+    second: Digimon Ultimates_219
+  - first:
+      213: -1532603976876244652
+    second: Digimon Ultimates_220
+  - first:
+      213: -2964494230529780502
+    second: Digimon Ultimates_221
+  - first:
+      213: -3381084762954725485
+    second: Digimon Ultimates_222
+  - first:
+      213: -7696320964512640256
+    second: Digimon Ultimates_223
+  - first:
+      213: 3073279982598669952
+    second: Digimon Ultimates_224
+  - first:
+      213: -7104497113714965904
+    second: Digimon Ultimates_225
+  - first:
+      213: 4951628736638217755
+    second: Digimon Ultimates_226
+  - first:
+      213: -507629473835711570
+    second: Digimon Ultimates_227
+  - first:
+      213: 801762903129216034
+    second: Digimon Ultimates_228
+  - first:
+      213: 246706555687278405
+    second: Digimon Ultimates_229
+  - first:
+      213: 2731565078914360058
+    second: Digimon Ultimates_230
+  - first:
+      213: 7464598896131642281
+    second: Digimon Ultimates_231
+  - first:
+      213: -796560308516501635
+    second: Digimon Ultimates_232
+  - first:
+      213: -1898716545113147719
+    second: Digimon Ultimates_233
+  - first:
+      213: 4283011904446649009
+    second: Digimon Ultimates_234
+  - first:
+      213: -8540454725113717314
+    second: Digimon Ultimates_235
+  - first:
+      213: -8004673209374828751
+    second: Digimon Ultimates_236
+  - first:
+      213: 3837389010374183674
+    second: Digimon Ultimates_237
+  - first:
+      213: 331348791681746708
+    second: Digimon Ultimates_238
+  - first:
+      213: -3501687388476076667
+    second: Digimon Ultimates_239
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Digimon Ultimates_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1192
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf7db67d2356ee30800000000000000
+      internalID: 4532401529725747128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1193
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d55153074a1af090800000000000000
+      internalID: -8000052895769602603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1190
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7898f4c5444ff47d0800000000000000
+      internalID: -2931856257951233657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1183
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccd0017435edbfe0800000000000000
+      internalID: -1171528314649518906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1191
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7b0e24f66dd4550800000000000000
+      internalID: 6146804839782332371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1191
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876030634ee58cd10800000000000000
+      internalID: 2146069556693763704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_6
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1192
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7f3bb655028cf60800000000000000
+      internalID: 8054723484803397557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_7
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1192
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c00fe54686a81d0800000000000000
+      internalID: -3347748592697734036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10a5a1bb025cc190800000000000000
+      internalID: -7940881832782487525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1145
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1348186b97e460590800000000000000
+      internalID: -7708387427538074575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1126
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5370c332f691810800000000000000
+      internalID: 1736541328449680824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1140
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e9521fe8ff7df50800000000000000
+      internalID: 6906269542992158224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1159
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef035513ebf4feb0800000000000000
+      internalID: -4686844359451930645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1095
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c174e00d4606dd630800000000000000
+      internalID: 3953422034004756252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_14
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1159
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260b513b44a9769b0800000000000000
+      internalID: -5086927634238689182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_15
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1127
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be8f9313f354e720800000000000000
+      internalID: 2874514765640601272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_16
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1160
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ff010f3803326f0800000000000000
+      internalID: -710670972967911559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_17
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa16df5af2ca7be0800000000000000
+      internalID: -1478655147032306954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_18
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1160
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d190891b895dea8d0800000000000000
+      internalID: -2833092263778186979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_19
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1128
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a574b6b81ecdfce0800000000000000
+      internalID: -1369712106110945881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1112
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2197b488463d1be80800000000000000
+      internalID: -8164512220709160686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1111
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d8dbd94c9e0c3f0800000000000000
+      internalID: -882448496295309992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1094
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a593e628600574bf0800000000000000
+      internalID: -340215257954895526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1088
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fe21ebccc59aec0800000000000000
+      internalID: -3555208396400300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_24
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1095
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7667ab172c795af40800000000000000
+      internalID: 5739160161541060199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_25
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1096
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50edaf131144271d0800000000000000
+      internalID: -3354543931793940987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_26
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1096
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3880b4a519725dde0800000000000000
+      internalID: -1309096611442653053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1072
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb69882344fd05c0800000000000000
+      internalID: -4247470304260428810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_28
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1079
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32c98c0dc45327f0800000000000000
+      internalID: -638573482501094850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1059
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e265d6656dba808b0800000000000000
+      internalID: -5185706033855769042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1040
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea8e933ac7678210800000000000000
+      internalID: 1335149932685724391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_31
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1063
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4215d600c89c800800000000000000
+      internalID: 633191156084188413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_32
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1063
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbdc6f1e4fe57920800000000000000
+      internalID: 2987557046643907550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1064
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2888b726204de4f0800000000000000
+      internalID: -797911026355369940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_34
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1064
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96be30424117e0370800000000000000
+      internalID: 8290688295353183081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1016
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922539f0fb1ab46d0800000000000000
+      internalID: -3005130484367535575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_36
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1044
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26efff366320ca440800000000000000
+      internalID: 4948332523202543202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1013
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ba24e2ed81fa6e0800000000000000
+      internalID: -1824211981523834020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_38
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1026
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf189c49a2d455e0800000000000000
+      internalID: -1921679516404015140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_39
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1028
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718a62a43e2289b70800000000000000
+      internalID: 8905906622722123799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_40
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1023
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2f7e47178ea2e60800000000000000
+      internalID: 7938412867184227050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_41
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1021
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384bf91e3d62cf580800000000000000
+      internalID: -8792109681068755837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_42
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 998
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f725bbbd4179c5190800000000000000
+      internalID: -7972331124510993793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 961
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc55bbd61f591be0800000000000000
+      internalID: -1506068048598704907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_44
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 992
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4862f2d540053120800000000000000
+      internalID: 2392819076909131853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_45
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 989
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef974befc1713940800000000000000
+      internalID: 5274121776447070176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_46
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 996
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee5d7bbcc894cec0800000000000000
+      internalID: -3547542601374802208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_47
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 989
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcde0beda3f2d3df0800000000000000
+      internalID: -198950878643687987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_48
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 985
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87665190deafae6b0800000000000000
+      internalID: -5266120918289783176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 945
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d074b971482fa1e90800000000000000
+      internalID: -7054059217176803571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 955
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e945dfb5a96e6f8f0800000000000000
+      internalID: -506964357389921122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 938
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3063503b7c6d63e10800000000000000
+      internalID: 2177163623070512643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_52
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 956
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983b0e47f190809a0800000000000000
+      internalID: -6266748850776525943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_53
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 932
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5316c47410c9d0f30800000000000000
+      internalID: 4543459128391786805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_54
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 964
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6638dbdaaff3383a0800000000000000
+      internalID: -6664412677688949914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_55
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 957
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0c2e3301b659eb0800000000000000
+      internalID: -4713743717639208717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_56
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 953
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0256b5b4b14039a70800000000000000
+      internalID: 8832407809478583584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 906
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e4fb918239e1ae0800000000000000
+      internalID: -1576661019093152131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_58
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 875
+        width: 37
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6a600ab9fc95420800000000000000
+      internalID: 2619352925604325078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_59
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 909
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049e78300ed489340800000000000000
+      internalID: 4870728621528443200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_60
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 900
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe165b6862819600800000000000000
+      internalID: 473302820839628533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_61
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 909
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f0397d95deb2970800000000000000
+      internalID: 8731333272712449833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_62
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 900
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba38399743f504720800000000000000
+      internalID: 2828365244971320235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_63
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 893
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea07d3a61bc20630800000000000000
+      internalID: 3891896326100028143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_64
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 921
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab266270fa8bc6a80800000000000000
+      internalID: -8472193737112001862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_65
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 889
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82efd09e3fc6d4400800000000000000
+      internalID: 310023744201293352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 846
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e40ef5b53497f20800000000000000
+      internalID: 3420839451694222856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_67
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 861
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefb78c5b8f24bda0800000000000000
+      internalID: -5930062533740740626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_68
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 868
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7eed069d8ad5acd0800000000000000
+      internalID: -2547389712565408130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_69
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 836
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba0956d43a67c910800000000000000
+      internalID: 1857570146480622261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_70
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 869
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859b84542b0e7d090800000000000000
+      internalID: -8009686355983943336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_71
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 837
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a1ba1fab2e50df0800000000000000
+      internalID: -214516114683913668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_72
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 860
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b303c30fc41d2e40800000000000000
+      internalID: 5633181588264256440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_73
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 861
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffe5f3eb9349bb50800000000000000
+      internalID: 6609388264966451185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_74
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 857
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8461fecd6f7d250800000000000000
+      internalID: 5969511259867334862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_75
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 827
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3761b9f7a45b370800000000000000
+      internalID: 8337652197069583293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_76
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 809
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c223285a6160ef330800000000000000
+      internalID: 3746438634354651692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_77
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 804
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58272a95b1dfa2eb0800000000000000
+      internalID: -4743700963571633531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_78
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 804
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1110251527c2c6f90800000000000000
+      internalID: -6959138454692036335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_79
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 830
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49b69375018ddfd0800000000000000
+      internalID: -2315552772984489651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_80
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 798
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2edb81eb0db73d50800000000000000
+      internalID: 6717045227972714030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_81
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 826
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7fe9cc5e5d3cd70800000000000000
+      internalID: 9062322058156767227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 786
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0aa0793e5bdee940800000000000000
+      internalID: 5327436606962969103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_83
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 775
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43433dc8bff25a50800000000000000
+      internalID: 6508545580685542223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_84
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 757
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da78f0160fdc7650800000000000000
+      internalID: 6232101201521441497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_85
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 764
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7acfd61153d60580800000000000000
+      internalID: -8861162871575295363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_86
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 771
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f265de193044d7bb0800000000000000
+      internalID: -4936714834404354513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_87
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 795
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96abbf2773d9e090800000000000000
+      internalID: -8004634353818949989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_88
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 765
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5210bab7c67d10f40800000000000000
+      internalID: 5693068264904261925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_89
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 792
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f2772012e09bd80800000000000000
+      internalID: -8234534908732166283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_90
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 727
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d381f5457e7f46b70800000000000000
+      internalID: 8891504137261226045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_91
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 725
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fc87aec784a5110800000000000000
+      internalID: 1250391547895664543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_92
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 742
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e08a92c137bf6bb0800000000000000
+      internalID: -4940528841855958807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_93
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 761
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae41f8b5db9c05560800000000000000
+      internalID: 7300556811089679594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_94
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 760
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c66709e96f710b0800000000000000
+      internalID: -5757862437680944024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_95
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 696
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932c839252166c370800000000000000
+      internalID: 8342462171983692345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a323c5d321243f9d0800000000000000
+      internalID: -2741775102032203206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_97
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 718
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6766c1d8ba01e60800000000000000
+      internalID: 7931027566354659024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_98
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 714
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9668f9eaf2d47d30800000000000000
+      internalID: 4428396308721067679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_99
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 724
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a669c18ae49c7c0800000000000000
+      internalID: -4050619905901958546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_100
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 720
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef24f58db8fb04e0800000000000000
+      internalID: -2014242915438284824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_101
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 680
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dd29a6ce935dd30800000000000000
+      internalID: 4455531093916048707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_102
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 682
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507eedd612bb85920800000000000000
+      internalID: 2979336905757222661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_103
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 686
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6f493e686b963a0800000000000000
+      internalID: -6671600682512615733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_104
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 654
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8a686059121ce00800000000000000
+      internalID: 1063167910979479735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_105
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 685
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20a9ff80fa961bd0800000000000000
+      internalID: -2659768171917369300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_106
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 682
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069a3aca06596fde0800000000000000
+      internalID: -1299687200004003488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_107
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 678
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666d097b57be88ec0800000000000000
+      internalID: -3564340214240323994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 683
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ba8e8c56accb550800000000000000
+      internalID: 6178035327356677002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_109
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 664
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a1ea94545cb1a80800000000000000
+      internalID: -8494979370724746606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_110
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 640
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3cd1929f9fb07e0800000000000000
+      internalID: -1798068777672391771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_111
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 650
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df9753afafb2d7f0800000000000000
+      internalID: -589197840151502887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_112
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 542
+        width: 36
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b603a0778dce2c0800000000000000
+      internalID: -4400904730064164008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_113
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 645
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ba8e90803917770800000000000000
+      internalID: 8606822025616993057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_114
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 649
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2003de80b509a5a20800000000000000
+      internalID: 3051910418163118082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_115
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 636
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2004c4f0372eb9630800000000000000
+      internalID: 3934987683244032002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_116
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 654
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310b2dee28cf2aad0800000000000000
+      internalID: -2692311987931402221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_117
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 624
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99aea6e17ca5a6a60800000000000000
+      internalID: 7668041126807005849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_118
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 600
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c611af65ff2cf6e0800000000000000
+      internalID: -1802513019668719932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_119
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 610
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaf894c467f88b80800000000000000
+      internalID: -8392185893437769047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_120
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 605
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f474cb875d5526c30800000000000000
+      internalID: 4351134565335320399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_121
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 619
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc40cb3ae5d7973f0800000000000000
+      internalID: -902552404883667765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_122
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 602
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57550d2d7c6542940800000000000000
+      internalID: 5270432880165672309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_123
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 619
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe6f9181bbf1d030800000000000000
+      internalID: 3517869523755560635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_124
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 591
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aac9bc0ee1931670800000000000000
+      internalID: 8508304572634745507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_125
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 578
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6097cb802939ab70800000000000000
+      internalID: 8910716149676085359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_126
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 573
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8939380f651ea7290800000000000000
+      internalID: -7891747633494781032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_127
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 552
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce08900f9c88c050800000000000000
+      internalID: 5821057132914020033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_128
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 584
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80067ad413fdad9b0800000000000000
+      internalID: -5054482228920754168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_129
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 571
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df78c384f81c77d20800000000000000
+      internalID: 3276300075071735805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_130
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 520
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168083032c9cf6070800000000000000
+      internalID: 8101916090532628577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_131
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 584
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d46b920258cd2090800000000000000
+      internalID: -8057563903739337520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_132
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 559
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67375c5d974d0c020800000000000000
+      internalID: 2360119824484758390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_133
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 552
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4232845f98e3950800000000000000
+      internalID: 6430729004501902506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_134
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 546
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fc4a3e741d1eec0800000000000000
+      internalID: -3539317725444386958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_135
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 533
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7263a2e8518d29360800000000000000
+      internalID: 7175034743445665319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_136
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 520
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0b6908ee1fc6e70800000000000000
+      internalID: 9109922152925540528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_137
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 539
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45b2abb6e6808750800000000000000
+      internalID: 6305187803867297099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_138
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 495
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1220805c55a6a5b00800000000000000
+      internalID: 818083198931567137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_139
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 502
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1055065b4e9e15e50800000000000000
+      internalID: 6796470481183593729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_140
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 505
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf8a92a2f06aec70800000000000000
+      internalID: 9001113400479748029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_141
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 510
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41a8f7cfa2f27ef0800000000000000
+      internalID: -111760203942682293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_142
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 446
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9878464eb015c00800000000000000
+      internalID: 887503677135751672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_143
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 496
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dfa27b396f0eba0800000000000000
+      internalID: -6061573984147014362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_144
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 488
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b406d108255366320800000000000000
+      internalID: 2550784867404963915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_145
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 506
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2500ec6a9d3523240800000000000000
+      internalID: 4769967149610303570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_146
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 488
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b0a47d86762b330800000000000000
+      internalID: 3725153541775035179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_147
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 428
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdcb209228adcb20800000000000000
+      internalID: 3156363780257730042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_148
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 473
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bb23bcae3c19ff0800000000000000
+      internalID: -31028309216019659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_149
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 459
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb279493ac6c9690800000000000000
+      internalID: -7594075421825094661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_150
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 445
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e09041138457ac50800000000000000
+      internalID: 6676397894506942691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_151
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 459
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a8b1f1c26839170800000000000000
+      internalID: 8184032471920904837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_152
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 440
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabeb0c7d114a4d00800000000000000
+      internalID: 957649465660664750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_153
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 463
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd270296de3585ff0800000000000000
+      internalID: -47195516951301409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_154
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 441
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25207c2b391958480800000000000000
+      internalID: -8897545425254940078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_155
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 409
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a805a3ef482c50eb0800000000000000
+      internalID: -4754179955162984310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_156
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 430
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da551b37a82bb6ec0800000000000000
+      internalID: -3572565571672123987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_157
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 407
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e532f23fcb5e7db0800000000000000
+      internalID: -4792292008004536862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_158
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 425
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fbf046e598567d0800000000000000
+      internalID: -2925781344408584448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_159
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 423
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399cd0afeaf35c170800000000000000
+      internalID: 8198028717449922963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_160
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 393
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06846382f3d1b78f0800000000000000
+      internalID: -541807173073221536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_161
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 377
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55f36e5bc2b57330800000000000000
+      internalID: 3708066454741185886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_162
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 406
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01122ac3d794cd200800000000000000
+      internalID: 206120485189198096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_163
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 387
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df37099f65556f90800000000000000
+      internalID: -6961063711234113584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_164
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 375
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc1ce60e8270a900800000000000000
+      internalID: 693680296942116060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_165
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 393
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8c709c9df3de4b0800000000000000
+      internalID: -5409597372788914002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_166
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 406
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c10dc522c08f6320800000000000000
+      internalID: 2553401085088563657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_167
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 342
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693b860bb45035750800000000000000
+      internalID: 6292378927007052694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_168
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 388
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dacebb8096698970800000000000000
+      internalID: 8757643721404500688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_169
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 332
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c042b7e7c5f87aa80800000000000000
+      internalID: -8455632147943054324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_170
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 361
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f15c1bd3329e4e0800000000000000
+      internalID: -1951990215605936302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_171
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 309
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2559c3e57c854d20800000000000000
+      internalID: 3262167943060477231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_172
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 358
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e041aec2db6aa0c40800000000000000
+      internalID: 5479375228082197518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_173
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 339
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f0d6ba2d24b1bd0800000000000000
+      internalID: -2658457682445529247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_174
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 340
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0876e2a23f53bb90800000000000000
+      internalID: -7227328305913497585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_175
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 297
+        width: 33
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2e6066428296290800000000000000
+      internalID: -7896736334821793044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_176
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 356
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3cba1d0c5fbf4e0800000000000000
+      internalID: -1946692205407386648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_177
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 297
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bef1c7117dfc4de0800000000000000
+      internalID: -1347423526318899534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_178
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 313
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed9b793a4f74cbb0800000000000000
+      internalID: -4916664936413028881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_179
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 298
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c23a39ce6424a40800000000000000
+      internalID: 5350917289172741232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_180
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 307
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6ce75a5f0104920800000000000000
+      internalID: 2972394401294108406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_181
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 310
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c96827d196019f70800000000000000
+      internalID: 9192135537889667529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_182
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 292
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039bd42e4181c9ef0800000000000000
+      internalID: -100178613733836496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_183
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 324
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f98349e3aa0c8e0800000000000000
+      internalID: -1675151875630391415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_184
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 257
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc46de93847922990800000000000000
+      internalID: -7412195700233116469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_185
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 268
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4973a5d3f12dec550800000000000000
+      internalID: 6183110370041411476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_186
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 273
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f63e33ace29a0e0800000000000000
+      internalID: -2258222292160778343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_187
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 263
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19f8784e36f59bc0800000000000000
+      internalID: -3776841965115999969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_188
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 275
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b45b1ba3d7d9e70800000000000000
+      internalID: 9123586111165516668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_189
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 259
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241bc82a5b658d870800000000000000
+      internalID: 8707805217637052738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_190
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 278
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab64856ee67f43ee0800000000000000
+      internalID: -1282127938210740550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_191
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 254
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e169aa908bd75bef0800000000000000
+      internalID: -93029987901598178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_192
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 214
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b046c1e8cd1046fe0800000000000000
+      internalID: -1196829554185051125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_193
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 228
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df1c997f6eb8cd20800000000000000
+      internalID: 3299096113039810514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_194
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 226
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfca7753195cdcc0800000000000000
+      internalID: -3684972455488991280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_195
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 199
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de9bfd012f256980800000000000000
+      internalID: -8546372898850627887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_196
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 242
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ae67ca2cefba530800000000000000
+      internalID: 3867464817098287616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_197
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 224
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b2ee91498097860800000000000000
+      internalID: 7528057684309715792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_198
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 243
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0df33e587c8d3b0800000000000000
+      internalID: -5487416768093761294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_199
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 218
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb804f3685911a1b0800000000000000
+      internalID: -5647204590321137477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_200
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 174
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9cf3dc78c5e3180800000000000000
+      internalID: -9133761255926937105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_201
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 188
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db8fce3d7baf2480800000000000000
+      internalID: -8921723782384612391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_202
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 179
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a3d6233f34a5350800000000000000
+      internalID: 6006187764854110738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_203
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 201
+        width: 75
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c84147ec1c2cf00800000000000000
+      internalID: 1135683148505713820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_204
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 192
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5fbaabb12371930800000000000000
+      internalID: 4113811879303574959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_205
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 79
+        width: 30
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fe299dd5686cae0800000000000000
+      internalID: -1529387285805338859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_206
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 122
+        width: 34
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3118e25391e4aa5b0800000000000000
+      internalID: -5356382936630394605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_207
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 134
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc67e635fc8bf480800000000000000
+      internalID: -8864336456732676874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_208
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 140
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a989ef07b247ff0800000000000000
+      internalID: -39358732431746441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_209
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 109
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f7c7d4c55007e50800000000000000
+      internalID: 6804944930951954303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_210
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 132
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c697af2a060f660800000000000000
+      internalID: 7417534839382436868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_211
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 164
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58419e8e8956bb880800000000000000
+      internalID: -8594163756489436027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_212
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 153
+        width: 72
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678046834c33229d0800000000000000
+      internalID: -2800619100418340746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_213
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 96
+        width: 33
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b5ecc6ab302f660800000000000000
+      internalID: 7417995635456891675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_214
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 94
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e7939cccb5dc6e0800000000000000
+      internalID: -1815694139652997518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_215
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 92
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c572b4d7470b940800000000000000
+      internalID: 5309872042150419607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_216
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 90
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955321a076e04afe0800000000000000
+      internalID: -1178801366750841511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_217
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 92
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8f18ce298f29010800000000000000
+      internalID: 1194290161123457273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_218
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 105
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92738fd7ac8c0ce60800000000000000
+      internalID: 7980599311722886953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_219
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 90
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1dc82a81a5cfdb0800000000000000
+      internalID: -4756828044557233687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_220
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 54
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451c0f89dc81bbae0800000000000000
+      internalID: -1532603976876244652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_221
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 74
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4d39234300cd6d0800000000000000
+      internalID: -2964494230529780502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_222
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 52
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39709946259f311d0800000000000000
+      internalID: -3381084762954725485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_223
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 58
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00315d01cdc213590800000000000000
+      internalID: -7696320964512640256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_224
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 47
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086cc1a7cdb76aa20800000000000000
+      internalID: 3073279982598669952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_225
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 42
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0724b3d2481c76d90800000000000000
+      internalID: -7104497113714965904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_226
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 57
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1eefe2e918b7b440800000000000000
+      internalID: 4951628736638217755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_227
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 14
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3018edea984f8f0800000000000000
+      internalID: -507629473835711570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_228
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 26
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2245a1bcc1f602b00800000000000000
+      internalID: 801762903129216034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_229
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54710872e4a7c6300800000000000000
+      internalID: 246706555687278405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_230
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 22
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af26d8187f778e520800000000000000
+      internalID: 2731565078914360058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_231
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 22
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a313ba9525979760800000000000000
+      internalID: 7464598896131642281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_232
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 24
+        width: 61
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77c2b8ae9c02f4f0800000000000000
+      internalID: -796560308516501635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_233
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6bf5fac5766a5e0800000000000000
+      internalID: -1898716545113147719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_234
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 13
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2df4d72a0507b30800000000000000
+      internalID: 4283011904446649009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_235
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 12
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd5a414da53a7980800000000000000
+      internalID: -8540454725113717314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_236
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 12
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137902c6020b9e090800000000000000
+      internalID: -8004673209374828751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_237
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 12
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa475c39f4214530800000000000000
+      internalID: 3837389010374183674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_238
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41702f078ff299400800000000000000
+      internalID: 331348791681746708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digimon Ultimates_239
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 12
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d0b677fd1876fc0800000000000000
+      internalID: -3501687388476076667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Digimon Ultimates_0: 4532401529725747128
+      Digimon Ultimates_1: -8000052895769602603
+      Digimon Ultimates_10: 1736541328449680824
+      Digimon Ultimates_100: -2014242915438284824
+      Digimon Ultimates_101: 4455531093916048707
+      Digimon Ultimates_102: 2979336905757222661
+      Digimon Ultimates_103: -6671600682512615733
+      Digimon Ultimates_104: 1063167910979479735
+      Digimon Ultimates_105: -2659768171917369300
+      Digimon Ultimates_106: -1299687200004003488
+      Digimon Ultimates_107: -3564340214240323994
+      Digimon Ultimates_108: 6178035327356677002
+      Digimon Ultimates_109: -8494979370724746606
+      Digimon Ultimates_11: 6906269542992158224
+      Digimon Ultimates_110: -1798068777672391771
+      Digimon Ultimates_111: -589197840151502887
+      Digimon Ultimates_112: -4400904730064164008
+      Digimon Ultimates_113: 8606822025616993057
+      Digimon Ultimates_114: 3051910418163118082
+      Digimon Ultimates_115: 3934987683244032002
+      Digimon Ultimates_116: -2692311987931402221
+      Digimon Ultimates_117: 7668041126807005849
+      Digimon Ultimates_118: -1802513019668719932
+      Digimon Ultimates_119: -8392185893437769047
+      Digimon Ultimates_12: -4686844359451930645
+      Digimon Ultimates_120: 4351134565335320399
+      Digimon Ultimates_121: -902552404883667765
+      Digimon Ultimates_122: 5270432880165672309
+      Digimon Ultimates_123: 3517869523755560635
+      Digimon Ultimates_124: 8508304572634745507
+      Digimon Ultimates_125: 8910716149676085359
+      Digimon Ultimates_126: -7891747633494781032
+      Digimon Ultimates_127: 5821057132914020033
+      Digimon Ultimates_128: -5054482228920754168
+      Digimon Ultimates_129: 3276300075071735805
+      Digimon Ultimates_13: 3953422034004756252
+      Digimon Ultimates_130: 8101916090532628577
+      Digimon Ultimates_131: -8057563903739337520
+      Digimon Ultimates_132: 2360119824484758390
+      Digimon Ultimates_133: 6430729004501902506
+      Digimon Ultimates_134: -3539317725444386958
+      Digimon Ultimates_135: 7175034743445665319
+      Digimon Ultimates_136: 9109922152925540528
+      Digimon Ultimates_137: 6305187803867297099
+      Digimon Ultimates_138: 818083198931567137
+      Digimon Ultimates_139: 6796470481183593729
+      Digimon Ultimates_14: -5086927634238689182
+      Digimon Ultimates_140: 9001113400479748029
+      Digimon Ultimates_141: -111760203942682293
+      Digimon Ultimates_142: 887503677135751672
+      Digimon Ultimates_143: -6061573984147014362
+      Digimon Ultimates_144: 2550784867404963915
+      Digimon Ultimates_145: 4769967149610303570
+      Digimon Ultimates_146: 3725153541775035179
+      Digimon Ultimates_147: 3156363780257730042
+      Digimon Ultimates_148: -31028309216019659
+      Digimon Ultimates_149: -7594075421825094661
+      Digimon Ultimates_15: 2874514765640601272
+      Digimon Ultimates_150: 6676397894506942691
+      Digimon Ultimates_151: 8184032471920904837
+      Digimon Ultimates_152: 957649465660664750
+      Digimon Ultimates_153: -47195516951301409
+      Digimon Ultimates_154: -8897545425254940078
+      Digimon Ultimates_155: -4754179955162984310
+      Digimon Ultimates_156: -3572565571672123987
+      Digimon Ultimates_157: -4792292008004536862
+      Digimon Ultimates_158: -2925781344408584448
+      Digimon Ultimates_159: 8198028717449922963
+      Digimon Ultimates_16: -710670972967911559
+      Digimon Ultimates_160: -541807173073221536
+      Digimon Ultimates_161: 3708066454741185886
+      Digimon Ultimates_162: 206120485189198096
+      Digimon Ultimates_163: -6961063711234113584
+      Digimon Ultimates_164: 693680296942116060
+      Digimon Ultimates_165: -5409597372788914002
+      Digimon Ultimates_166: 2553401085088563657
+      Digimon Ultimates_167: 6292378927007052694
+      Digimon Ultimates_168: 8757643721404500688
+      Digimon Ultimates_169: -8455632147943054324
+      Digimon Ultimates_17: -1478655147032306954
+      Digimon Ultimates_170: -1951990215605936302
+      Digimon Ultimates_171: 3262167943060477231
+      Digimon Ultimates_172: 5479375228082197518
+      Digimon Ultimates_173: -2658457682445529247
+      Digimon Ultimates_174: -7227328305913497585
+      Digimon Ultimates_175: -7896736334821793044
+      Digimon Ultimates_176: -1946692205407386648
+      Digimon Ultimates_177: -1347423526318899534
+      Digimon Ultimates_178: -4916664936413028881
+      Digimon Ultimates_179: 5350917289172741232
+      Digimon Ultimates_18: -2833092263778186979
+      Digimon Ultimates_180: 2972394401294108406
+      Digimon Ultimates_181: 9192135537889667529
+      Digimon Ultimates_182: -100178613733836496
+      Digimon Ultimates_183: -1675151875630391415
+      Digimon Ultimates_184: -7412195700233116469
+      Digimon Ultimates_185: 6183110370041411476
+      Digimon Ultimates_186: -2258222292160778343
+      Digimon Ultimates_187: -3776841965115999969
+      Digimon Ultimates_188: 9123586111165516668
+      Digimon Ultimates_189: 8707805217637052738
+      Digimon Ultimates_19: -1369712106110945881
+      Digimon Ultimates_190: -1282127938210740550
+      Digimon Ultimates_191: -93029987901598178
+      Digimon Ultimates_192: -1196829554185051125
+      Digimon Ultimates_193: 3299096113039810514
+      Digimon Ultimates_194: -3684972455488991280
+      Digimon Ultimates_195: -8546372898850627887
+      Digimon Ultimates_196: 3867464817098287616
+      Digimon Ultimates_197: 7528057684309715792
+      Digimon Ultimates_198: -5487416768093761294
+      Digimon Ultimates_199: -5647204590321137477
+      Digimon Ultimates_2: -2931856257951233657
+      Digimon Ultimates_20: -8164512220709160686
+      Digimon Ultimates_200: -9133761255926937105
+      Digimon Ultimates_201: -8921723782384612391
+      Digimon Ultimates_202: 6006187764854110738
+      Digimon Ultimates_203: 1135683148505713820
+      Digimon Ultimates_204: 4113811879303574959
+      Digimon Ultimates_205: -1529387285805338859
+      Digimon Ultimates_206: -5356382936630394605
+      Digimon Ultimates_207: -8864336456732676874
+      Digimon Ultimates_208: -39358732431746441
+      Digimon Ultimates_209: 6804944930951954303
+      Digimon Ultimates_21: -882448496295309992
+      Digimon Ultimates_210: 7417534839382436868
+      Digimon Ultimates_211: -8594163756489436027
+      Digimon Ultimates_212: -2800619100418340746
+      Digimon Ultimates_213: 7417995635456891675
+      Digimon Ultimates_214: -1815694139652997518
+      Digimon Ultimates_215: 5309872042150419607
+      Digimon Ultimates_216: -1178801366750841511
+      Digimon Ultimates_217: 1194290161123457273
+      Digimon Ultimates_218: 7980599311722886953
+      Digimon Ultimates_219: -4756828044557233687
+      Digimon Ultimates_22: -340215257954895526
+      Digimon Ultimates_220: -1532603976876244652
+      Digimon Ultimates_221: -2964494230529780502
+      Digimon Ultimates_222: -3381084762954725485
+      Digimon Ultimates_223: -7696320964512640256
+      Digimon Ultimates_224: 3073279982598669952
+      Digimon Ultimates_225: -7104497113714965904
+      Digimon Ultimates_226: 4951628736638217755
+      Digimon Ultimates_227: -507629473835711570
+      Digimon Ultimates_228: 801762903129216034
+      Digimon Ultimates_229: 246706555687278405
+      Digimon Ultimates_23: -3555208396400300258
+      Digimon Ultimates_230: 2731565078914360058
+      Digimon Ultimates_231: 7464598896131642281
+      Digimon Ultimates_232: -796560308516501635
+      Digimon Ultimates_233: -1898716545113147719
+      Digimon Ultimates_234: 4283011904446649009
+      Digimon Ultimates_235: -8540454725113717314
+      Digimon Ultimates_236: -8004673209374828751
+      Digimon Ultimates_237: 3837389010374183674
+      Digimon Ultimates_238: 331348791681746708
+      Digimon Ultimates_239: -3501687388476076667
+      Digimon Ultimates_24: 5739160161541060199
+      Digimon Ultimates_25: -3354543931793940987
+      Digimon Ultimates_26: -1309096611442653053
+      Digimon Ultimates_27: -4247470304260428810
+      Digimon Ultimates_28: -638573482501094850
+      Digimon Ultimates_29: -5185706033855769042
+      Digimon Ultimates_3: -1171528314649518906
+      Digimon Ultimates_30: 1335149932685724391
+      Digimon Ultimates_31: 633191156084188413
+      Digimon Ultimates_32: 2987557046643907550
+      Digimon Ultimates_33: -797911026355369940
+      Digimon Ultimates_34: 8290688295353183081
+      Digimon Ultimates_35: -3005130484367535575
+      Digimon Ultimates_36: 4948332523202543202
+      Digimon Ultimates_37: -1824211981523834020
+      Digimon Ultimates_38: -1921679516404015140
+      Digimon Ultimates_39: 8905906622722123799
+      Digimon Ultimates_4: 6146804839782332371
+      Digimon Ultimates_40: 7938412867184227050
+      Digimon Ultimates_41: -8792109681068755837
+      Digimon Ultimates_42: -7972331124510993793
+      Digimon Ultimates_43: -1506068048598704907
+      Digimon Ultimates_44: 2392819076909131853
+      Digimon Ultimates_45: 5274121776447070176
+      Digimon Ultimates_46: -3547542601374802208
+      Digimon Ultimates_47: -198950878643687987
+      Digimon Ultimates_48: -5266120918289783176
+      Digimon Ultimates_49: -7054059217176803571
+      Digimon Ultimates_5: 2146069556693763704
+      Digimon Ultimates_50: -506964357389921122
+      Digimon Ultimates_51: 2177163623070512643
+      Digimon Ultimates_52: -6266748850776525943
+      Digimon Ultimates_53: 4543459128391786805
+      Digimon Ultimates_54: -6664412677688949914
+      Digimon Ultimates_55: -4713743717639208717
+      Digimon Ultimates_56: 8832407809478583584
+      Digimon Ultimates_57: -1576661019093152131
+      Digimon Ultimates_58: 2619352925604325078
+      Digimon Ultimates_59: 4870728621528443200
+      Digimon Ultimates_6: 8054723484803397557
+      Digimon Ultimates_60: 473302820839628533
+      Digimon Ultimates_61: 8731333272712449833
+      Digimon Ultimates_62: 2828365244971320235
+      Digimon Ultimates_63: 3891896326100028143
+      Digimon Ultimates_64: -8472193737112001862
+      Digimon Ultimates_65: 310023744201293352
+      Digimon Ultimates_66: 3420839451694222856
+      Digimon Ultimates_67: -5930062533740740626
+      Digimon Ultimates_68: -2547389712565408130
+      Digimon Ultimates_69: 1857570146480622261
+      Digimon Ultimates_7: -3347748592697734036
+      Digimon Ultimates_70: -8009686355983943336
+      Digimon Ultimates_71: -214516114683913668
+      Digimon Ultimates_72: 5633181588264256440
+      Digimon Ultimates_73: 6609388264966451185
+      Digimon Ultimates_74: 5969511259867334862
+      Digimon Ultimates_75: 8337652197069583293
+      Digimon Ultimates_76: 3746438634354651692
+      Digimon Ultimates_77: -4743700963571633531
+      Digimon Ultimates_78: -6959138454692036335
+      Digimon Ultimates_79: -2315552772984489651
+      Digimon Ultimates_8: -7940881832782487525
+      Digimon Ultimates_80: 6717045227972714030
+      Digimon Ultimates_81: 9062322058156767227
+      Digimon Ultimates_82: 5327436606962969103
+      Digimon Ultimates_83: 6508545580685542223
+      Digimon Ultimates_84: 6232101201521441497
+      Digimon Ultimates_85: -8861162871575295363
+      Digimon Ultimates_86: -4936714834404354513
+      Digimon Ultimates_87: -8004634353818949989
+      Digimon Ultimates_88: 5693068264904261925
+      Digimon Ultimates_89: -8234534908732166283
+      Digimon Ultimates_9: -7708387427538074575
+      Digimon Ultimates_90: 8891504137261226045
+      Digimon Ultimates_91: 1250391547895664543
+      Digimon Ultimates_92: -4940528841855958807
+      Digimon Ultimates_93: 7300556811089679594
+      Digimon Ultimates_94: -5757862437680944024
+      Digimon Ultimates_95: 8342462171983692345
+      Digimon Ultimates_96: -2741775102032203206
+      Digimon Ultimates_97: 7931027566354659024
+      Digimon Ultimates_98: 4428396308721067679
+      Digimon Ultimates_99: -4050619905901958546
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

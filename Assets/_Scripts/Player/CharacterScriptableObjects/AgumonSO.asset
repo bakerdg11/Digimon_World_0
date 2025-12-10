@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6538e95da2f3fd44883e3d9d2915e42b, type: 3}
+  m_Name: AgumonSO
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterDefinition
+  characterId: agumon
+  displayName: Agumon
+  walkSpeed: 4
+  canFly: 0
+  jumpForce: 5
+  animatorController: {fileID: 9100000, guid: 6aaefbc5d2f7f5a46997d3937fe4819f, type: 2}
+  defaultSprite: {fileID: 5400021928505507431, guid: bcc2dc28f22da8647a1cfede1291c5d5, type: 3}
+  rangedProjectilePrefab: {fileID: 2680830935764052329, guid: 2fec67c3e5501714e9c206697d01239f, type: 3}
+  rangedCooldown: 0.5
+  rangedProjectileSpeed: 500
+  meleeHitboxPrefab: {fileID: 6445826192643391251, guid: 19ad1952919114446ab32647516f23c6, type: 3}
+  meleeCooldown: 0.4
