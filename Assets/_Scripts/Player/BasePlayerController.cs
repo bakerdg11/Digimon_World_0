@@ -25,6 +25,12 @@ public class BasePlayerController : MonoBehaviour
     private float horizontal;
     private bool facingLeft = true;
 
+    [Header("Ground Check")]
+    [SerializeField] private Transform groundCheck;
+    [SerializeField] private Vector2 groundCheckSize = new Vector2(0.5f, 0.1f);
+    [SerializeField] private LayerMask groundLayer;
+    private bool isGrounded;
+
     [Header("Attack Spawn Points")]
     [SerializeField] private Transform meleeSpawnPoint;
     [SerializeField] private Transform projectileSpawnPoint;
@@ -86,27 +92,27 @@ public class BasePlayerController : MonoBehaviour
 
     private void Update()
     {
-        // Horizontal input from keyboard + gamepad (Move.x)
         horizontal = Mathf.Clamp(_moveInput.x, -1f, 1f);
 
-        // === WALKING ANIMATION ===
+        isGrounded = IsGrounded();
+        anim.SetBool("IsGrounded", isGrounded);
+
         bool isWalking = Mathf.Abs(horizontal) > 0.01f;
         anim.SetBool("IsWalking", isWalking && !isAttacking);
 
         if (isAttacking)
         {
-            // While attacking, stop horizontal motion
             horizontal = 0f;
             anim.SetBool("IsWalking", false);
         }
 
         HandleFlip();
 
-        // Handle queued button presses
         if (_jumpQueued)
         {
+            Debug.Log($"Jump pressed. grounded={isGrounded}");
             _jumpQueued = false;
-            HandleJump();
+            HandleJump(); // will use isGrounded instead of re-checking if you want
         }
 
         if (_meleeQueued || _rangedQueued)
@@ -115,6 +121,9 @@ public class BasePlayerController : MonoBehaviour
             _meleeQueued = false;
             _rangedQueued = false;
         }
+
+        var hit = Physics2D.OverlapBox(groundCheck.position, groundCheckSize, 0f, groundLayer);
+        Debug.Log($"GroundCheck pos={groundCheck.position} size={groundCheckSize} layerMask={groundLayer.value} hit={(hit ? hit.name : "NONE")}");
     }
 
     private void FixedUpdate()
@@ -131,6 +140,30 @@ public class BasePlayerController : MonoBehaviour
             horizontal * currentCharacter.walkSpeed,
             rb.linearVelocity.y
         );
+    }
+
+    // ================================
+    // FACING / FLIP
+    // ================================
+    private void HandleFlip()
+    {
+        if (horizontal > 0.01f && facingLeft)
+        {
+            Flip();
+        }
+        else if (horizontal < -0.01f && !facingLeft)
+        {
+            Flip();
+        }
+    }
+
+    private void Flip()
+    {
+        facingLeft = !facingLeft;
+
+        Vector3 scale = transform.localScale;
+        scale.x *= -1;
+        transform.localScale = scale;
     }
 
     // ================================
@@ -158,30 +191,22 @@ public class BasePlayerController : MonoBehaviour
     // ================================
     private void HandleJump()
     {
-        // Jump is now driven by the Jump input action (button press queued)
-        if (currentCharacter.canFly)
+        if (currentCharacter.canFly || isGrounded)
         {
-            rb.linearVelocity = new Vector2(
-                rb.linearVelocity.x,
-                currentCharacter.jumpForce
-            );
-        }
-        else
-        {
-            if (IsGrounded())
-            {
-                rb.linearVelocity = new Vector2(
-                    rb.linearVelocity.x,
-                    currentCharacter.jumpForce
-                );
-            }
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, currentCharacter.jumpForce);
+            anim.SetTrigger("IsJumping");
         }
     }
 
     private bool IsGrounded()
     {
-        // Placeholder. Replace with raycast / ground check later.
-        return Mathf.Abs(rb.linearVelocity.y) < 0.01f;
+        if (groundCheck == null) return false;
+        return Physics2D.OverlapBox(groundCheck.position, groundCheckSize, 0f, groundLayer);
+    }
+    private void OnDrawGizmosSelected()
+    {
+        if (groundCheck == null) return;
+        Gizmos.DrawWireCube(groundCheck.position, groundCheckSize);
     }
 
     // ================================
@@ -275,27 +300,4 @@ public class BasePlayerController : MonoBehaviour
     }
 
 
-    // ================================
-    // FACING / FLIP
-    // ================================
-    private void HandleFlip()
-    {
-        if (horizontal > 0.01f && facingLeft)
-        {
-            Flip();
-        }
-        else if (horizontal < -0.01f && !facingLeft)
-        {
-            Flip();
-        }
-    }
-
-    private void Flip()
-    {
-        facingLeft = !facingLeft;
-
-        Vector3 scale = transform.localScale;
-        scale.x *= -1;
-        transform.localScale = scale;
-    }
 }
