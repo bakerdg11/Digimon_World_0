@@ -122,9 +122,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9129343304249455236}
-  - component: {fileID: 3359023661406388706}
-  - component: {fileID: 5983216749638470169}
-  - component: {fileID: 3724923592153652288}
+  - component: {fileID: 6197043940575815906}
+  - component: {fileID: -8873332906549194962}
+  - component: {fileID: -2738698246228134482}
   m_Layer: 0
   m_Name: fireBallEffect
   m_TagString: Untagged
@@ -148,40 +148,43 @@ Transform:
   - {fileID: 3376465937369988134}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
---- !u!54 &3359023661406388706
-Rigidbody:
+--- !u!50 &6197043940575815906
+Rigidbody2D:
+  serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2680830935764052329}
-  serializedVersion: 5
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_CenterOfMass: {x: 0, y: 0, z: 0}
-  m_InertiaTensor: {x: 1, y: 1, z: 1}
-  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 0
-  m_ImplicitCom: 1
-  m_ImplicitTensor: 1
-  m_UseGravity: 0
-  m_IsKinematic: 0
   m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 1
   m_Constraints: 0
-  m_CollisionDetection: 0
---- !u!135 &5983216749638470169
-SphereCollider:
+--- !u!58 &-8873332906549194962
+CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2680830935764052329}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -190,13 +193,25 @@ SphereCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Radius: 0.51514024
-  m_Center: {x: -6.888866e-18, y: 0, z: 0.015140235}
---- !u!114 &3724923592153652288
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_Radius: 0.5
+--- !u!114 &-2738698246228134482
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -205,16 +220,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 2680830935764052329}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c22b4260a035fc74aa887a10fc893ad7, type: 3}
+  m_Script: {fileID: 11500000, guid: 2a580fc895b537a42bb659cc6bc68f01, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: 
-  vfxPrefab: {fileID: 772568044698796346, guid: cf3629393289b174fabe717ad672d281, type: 3}
-  objectToDisable: {fileID: 1435430849329181222}
-  rb: {fileID: 0}
-  speed: 2
-  maxSpeed: 3
-  acceleration: 2
-  rotationSpeed: 360
+  m_EditorClassIdentifier: Assembly-CSharp::Projectile
+  speed: 10
+  damage: 1
+  hoverTime: 1
+  lifetime: 3
+  hitMask:
+    serializedVersion: 2
+    m_Bits: 128
 --- !u!1001 &4897831432801354646
 PrefabInstance:
   m_ObjectHideFlags: 0

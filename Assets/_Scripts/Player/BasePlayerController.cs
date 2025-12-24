@@ -34,6 +34,7 @@ public class BasePlayerController : MonoBehaviour
     [Header("Attack Spawn Points")]
     [SerializeField] private Transform meleeSpawnPoint;
     [SerializeField] private Transform projectileSpawnPoint;
+    [SerializeField] private LayerMask projectileHitMask;
 
     private bool isAttacking;
     private float lastMeleeTime;
@@ -97,6 +98,14 @@ public class BasePlayerController : MonoBehaviour
         isGrounded = IsGrounded();
         anim.SetBool("IsGrounded", isGrounded);
 
+        // NEW: stay in jump while airborne
+        bool isInAir = !isGrounded;
+        anim.SetBool("IsInAir", isInAir);
+
+        // Falling if airborne and moving downward
+bool isFalling = isInAir && rb.linearVelocity.y < -0.05f;
+anim.SetBool("IsFalling", isFalling);
+
         bool isWalking = Mathf.Abs(horizontal) > 0.01f;
         anim.SetBool("IsWalking", isWalking && !isAttacking);
 
@@ -110,9 +119,8 @@ public class BasePlayerController : MonoBehaviour
 
         if (_jumpQueued)
         {
-            Debug.Log($"Jump pressed. grounded={isGrounded}");
             _jumpQueued = false;
-            HandleJump(); // will use isGrounded instead of re-checking if you want
+            HandleJump();
         }
 
         if (_meleeQueued || _rangedQueued)
@@ -121,9 +129,6 @@ public class BasePlayerController : MonoBehaviour
             _meleeQueued = false;
             _rangedQueued = false;
         }
-
-        var hit = Physics2D.OverlapBox(groundCheck.position, groundCheckSize, 0f, groundLayer);
-        Debug.Log($"GroundCheck pos={groundCheck.position} size={groundCheckSize} layerMask={groundLayer.value} hit={(hit ? hit.name : "NONE")}");
     }
 
     private void FixedUpdate()
@@ -194,7 +199,9 @@ public class BasePlayerController : MonoBehaviour
         if (currentCharacter.canFly || isGrounded)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, currentCharacter.jumpForce);
-            anim.SetTrigger("IsJumping");
+
+            // Optional: immediately mark airborne so animation switches instantly
+            anim.SetBool("IsInAir", true);
         }
     }
 
@@ -215,19 +222,17 @@ public class BasePlayerController : MonoBehaviour
     private void HandleAttacks()
     {
         // Melee
-        if (_meleeQueued &&
-            Time.time >= lastMeleeTime + currentCharacter.meleeCooldown)
+        if (_meleeQueued && Time.time >= lastMeleeTime + currentCharacter.meleeCooldown)
         {
             lastMeleeTime = Time.time;
             DoMeleeAttack();
         }
 
         // Ranged
-        if (_rangedQueued &&
-            Time.time >= lastRangedTime + currentCharacter.rangedCooldown)
+        if (_rangedQueued && Time.time >= lastRangedTime + currentCharacter.rangedCooldown)
         {
             lastRangedTime = Time.time;
-            DoRangedAttack();
+            DoRangedAttack(); // no cooldown logic inside
         }
     }
 
@@ -262,36 +267,38 @@ public class BasePlayerController : MonoBehaviour
 
     private void DoRangedAttack()
     {
-        if (currentCharacter.rangedProjectilePrefab == null)
-            return;
+        if (currentCharacter == null) return;
+        if (currentCharacter.rangedProjectilePrefab == null) return;
 
         isAttacking = true;
 
-        Vector3 basePos = projectileSpawnPoint != null
+        float dir = facingLeft ? -1f : 1f;
+
+        Vector3 spawnPos = projectileSpawnPoint != null
             ? projectileSpawnPoint.position
             : transform.position;
 
-        float dir = facingLeft ? -1f : 1f;
-        Vector3 spawnPos = basePos;
+        GameObject projGO = Instantiate(currentCharacter.rangedProjectilePrefab, spawnPos, Quaternion.identity);
 
-        GameObject proj = Instantiate(
-            currentCharacter.rangedProjectilePrefab,
-            spawnPos,
-            Quaternion.identity
-        );
-
-        if (proj.TryGetComponent<Rigidbody2D>(out var rbProj))
+        if (projGO.TryGetComponent<Projectile>(out var proj))
         {
-            rbProj.linearVelocity = new Vector2(
-                dir * currentCharacter.rangedProjectileSpeed,
-                0f
+            proj.Initialize(
+                owner: transform,
+                followPoint: projectileSpawnPoint,
+                dirX: dir,
+                speed: currentCharacter.rangedProjectileSpeed,
+                damage: currentCharacter.rangedDamage,
+                hoverTime: currentCharacter.rangedHoverTime,
+                lifetime: currentCharacter.rangedLifetime,
+                hitMask: projectileHitMask
             );
         }
 
-        // Optional: flip projectile sprite using localScale.x like above
-
         anim.SetTrigger("IsAttacking");
     }
+
+
+
 
     // Called from animation event at the end of the melee attack
     public void OnAttackAnimationEnd()

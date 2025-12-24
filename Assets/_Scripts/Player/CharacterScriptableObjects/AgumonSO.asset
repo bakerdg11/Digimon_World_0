@@ -21,6 +21,10 @@ MonoBehaviour:
   defaultSprite: {fileID: 5400021928505507431, guid: bcc2dc28f22da8647a1cfede1291c5d5, type: 3}
   rangedProjectilePrefab: {fileID: 2680830935764052329, guid: 2fec67c3e5501714e9c206697d01239f, type: 3}
   rangedCooldown: 0.5
-  rangedProjectileSpeed: 500
+  rangedProjectileSpeed: 30
+  rangedDamage: 1
+  rangedHoverTime: 0.4
+  rangedLifetime: 3
   meleeHitboxPrefab: {fileID: 6445826192643391251, guid: 19ad1952919114446ab32647516f23c6, type: 3}
   meleeCooldown: 0.4
+  meleeDamage: 1
