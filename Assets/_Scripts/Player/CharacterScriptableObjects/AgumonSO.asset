@@ -23,7 +23,7 @@ MonoBehaviour:
   rangedCooldown: 0.5
   rangedProjectileSpeed: 30
   rangedDamage: 1
-  rangedHoverTime: 0.4
+  rangedHoverTime: 0.25
   rangedLifetime: 3
   meleeHitboxPrefab: {fileID: 6445826192643391251, guid: 19ad1952919114446ab32647516f23c6, type: 3}
   meleeCooldown: 0.4
