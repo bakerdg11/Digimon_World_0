@@ -84,8 +84,8 @@ public class Projectile : MonoBehaviour
         if (((1 << other.gameObject.layer) & hitMask) == 0)
             return;
 
-        if (other.TryGetComponent<IDamageable>(out var dmg))
-            dmg.TakeDamage(damage);
+        if (other.TryGetComponent<EnemyHealth>(out var health))
+            health.TakeDamage(damage);
 
         Destroy(gameObject);
     }

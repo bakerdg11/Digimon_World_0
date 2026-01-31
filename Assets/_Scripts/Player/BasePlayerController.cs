@@ -280,24 +280,34 @@ public class BasePlayerController : MonoBehaviour
 
         isAttacking = true;
 
-        // Use spawn point if assigned, otherwise fall back to offset
         Vector3 basePos = meleeSpawnPoint != null
             ? meleeSpawnPoint.position
             : transform.position;
 
         float dir = facingLeft ? -1f : 1f;
-        Vector3 spawnPos = basePos + Vector3.right * dir * 0.1f; // tiny offset
+        Vector3 spawnPos = basePos + Vector3.right * dir * 0.1f;
 
-        var hitbox = Instantiate(
+        GameObject hitboxGO = Instantiate(
             currentCharacter.meleeHitboxPrefab,
             spawnPos,
             Quaternion.identity
         );
 
-        // Face the correct direction (optional)
-        Vector3 scale = hitbox.transform.localScale;
+        // Flip visuals if needed
+        Vector3 scale = hitboxGO.transform.localScale;
         scale.x = Mathf.Abs(scale.x) * dir;
-        hitbox.transform.localScale = scale;
+        hitboxGO.transform.localScale = scale;
+
+        if (hitboxGO.TryGetComponent<MeleeHitbox>(out var hitbox))
+        {
+            hitbox.Initialize(
+                owner: transform,
+                followPoint: meleeSpawnPoint,
+                damage: (int)currentCharacter.meleeDamage,
+                lifetime: currentCharacter.meleeLifetime,
+                hitMask: projectileHitMask
+            );
+        }
 
         anim.SetTrigger("IsAttacking");
     }

@@ -28,4 +28,5 @@ public class CharacterDefinition : ScriptableObject
     public GameObject meleeHitboxPrefab;
     public float meleeCooldown = 0.4f;
     public float meleeDamage = 1;
+    public float meleeLifetime = 0.5f;
 }
