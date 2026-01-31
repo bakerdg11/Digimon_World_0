@@ -4,16 +4,20 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody2D))]
 public class Projectile : MonoBehaviour
 {
-    [SerializeField] private float speed = 10f;
-    [SerializeField] private int damage = 1;
-    [SerializeField] private float hoverTime = 1f;
-    [SerializeField] private float lifetime = 3f;
+    private Transform owner;
+    private Transform followPoint;
 
     [SerializeField] private LayerMask hitMask;
 
+    [SerializeField] private int damage = 1;
+    [SerializeField] private float speed = 10f;
+    [SerializeField] private float hoverTime = 1f;
+    [SerializeField] private float lifetime = 3f;
+
+
+
     private Rigidbody2D rb;
-    private Transform owner;
-    private Transform followPoint;
+
     private float dirX = 1f;
     private Coroutine routine;
 

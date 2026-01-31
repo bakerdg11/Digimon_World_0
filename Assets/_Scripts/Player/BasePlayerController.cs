@@ -32,14 +32,20 @@ public class BasePlayerController : MonoBehaviour
     private bool isGrounded;
 
     [Header("Wall check to prevent floating")]
-    [SerializeField] private Transform frontCheck; // small point at chest height, facing right
-    [SerializeField] private float frontCheckRadius = 0.05f;
+    [SerializeField] private Transform frontCheck;
+    [SerializeField] private Vector2 frontCheckSize = new Vector2(0.1f, 1.6f);
     [SerializeField] private LayerMask wallLayer;
 
     private bool IsTouchingWall()
     {
         if (frontCheck == null) return false;
-        return Physics2D.OverlapCircle(frontCheck.position, frontCheckRadius, wallLayer);
+
+        return Physics2D.OverlapBox(
+            frontCheck.position,
+            frontCheckSize,
+            0f,
+            wallLayer
+        );
     }
 
     [Header("Attack Spawn Points")]
@@ -150,30 +156,23 @@ public class BasePlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        float targetHorizontal = horizontal * currentCharacter.walkSpeed;
-
-        if (!IsTouchingWall() || !isGrounded)
-        {
-            rb.linearVelocity = new Vector2(targetHorizontal, rb.linearVelocity.y);
-        }
-        else
-        {
-            // optional: stop horizontal movement against wall
-            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
-        }
-
         if (isAttacking)
         {
-            // Freeze horizontal movement but allow gravity
             rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
             return;
         }
 
-        // === CHARACTER-BASED SPEED ===
-        rb.linearVelocity = new Vector2(
-            horizontal * currentCharacter.walkSpeed,
-            rb.linearVelocity.y
-        );
+        float targetHorizontal = horizontal * currentCharacter.walkSpeed;
+
+        bool pushingIntoWall =
+            IsTouchingWall() &&
+            !isGrounded &&
+            Mathf.Abs(horizontal) > 0.01f;
+
+        if (pushingIntoWall)
+            targetHorizontal = 0f;
+
+        rb.linearVelocity = new Vector2(targetHorizontal, rb.linearVelocity.y);
     }
 
     // ================================
@@ -247,7 +246,7 @@ public class BasePlayerController : MonoBehaviour
         if (frontCheck != null)
         {
             Gizmos.color = Color.red;
-            Gizmos.DrawWireSphere(frontCheck.position, frontCheckRadius);
+            Gizmos.DrawWireCube(frontCheck.position, frontCheckSize);
         }
     }
 
@@ -275,8 +274,7 @@ public class BasePlayerController : MonoBehaviour
 
     private void DoMeleeAttack()
     {
-        if (currentCharacter.meleeHitboxPrefab == null)
-            return;
+        if (currentCharacter.meleeHitboxPrefab == null) return;
 
         isAttacking = true;
 
@@ -287,11 +285,7 @@ public class BasePlayerController : MonoBehaviour
         float dir = facingLeft ? -1f : 1f;
         Vector3 spawnPos = basePos + Vector3.right * dir * 0.1f;
 
-        GameObject hitboxGO = Instantiate(
-            currentCharacter.meleeHitboxPrefab,
-            spawnPos,
-            Quaternion.identity
-        );
+        GameObject hitboxGO = Instantiate(currentCharacter.meleeHitboxPrefab, spawnPos, Quaternion.identity);
 
         // Flip visuals if needed
         Vector3 scale = hitboxGO.transform.localScale;

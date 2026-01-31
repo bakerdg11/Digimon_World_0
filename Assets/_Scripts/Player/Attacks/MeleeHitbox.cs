@@ -2,12 +2,13 @@ using UnityEngine;
 
 public class MeleeHitbox : MonoBehaviour
 {
-    [SerializeField] private int damage = 1;
-
     private Transform owner;
-    private LayerMask hitMask;
     private Transform followPoint;
     private float lifetime;
+
+    [SerializeField] private LayerMask hitMask;
+
+    [SerializeField] private int damage = 1;
 
     public void Initialize(
         Transform owner,

@@ -16,11 +16,16 @@ MonoBehaviour:
   displayName: Biyomon
   walkSpeed: 5
   canFly: 1
-  jumpForce: 10
+  jumpForce: 3
   animatorController: {fileID: 9100000, guid: fc223e4ac7195dd4a8dc0aff7f5055fc, type: 2}
   defaultSprite: {fileID: 6447204552330265497, guid: bcc2dc28f22da8647a1cfede1291c5d5, type: 3}
   rangedProjectilePrefab: {fileID: 0}
   rangedCooldown: 0.5
   rangedProjectileSpeed: 10
+  rangedDamage: 1
+  rangedHoverTime: 1
+  rangedLifetime: 3
   meleeHitboxPrefab: {fileID: 0}
   meleeCooldown: 0.4
+  meleeDamage: 1
+  meleeLifetime: 0.5
