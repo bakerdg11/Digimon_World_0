@@ -27,9 +27,20 @@ public class BasePlayerController : MonoBehaviour
 
     [Header("Ground Check")]
     [SerializeField] private Transform groundCheck;
-    [SerializeField] private Vector2 groundCheckSize = new Vector2(0.5f, 0.1f);
+    [SerializeField] private Vector2 groundCheckSize = new Vector2(1.7f, 0.1f);
     [SerializeField] private LayerMask groundLayer;
     private bool isGrounded;
+
+    [Header("Wall check to prevent floating")]
+    [SerializeField] private Transform frontCheck; // small point at chest height, facing right
+    [SerializeField] private float frontCheckRadius = 0.05f;
+    [SerializeField] private LayerMask wallLayer;
+
+    private bool IsTouchingWall()
+    {
+        if (frontCheck == null) return false;
+        return Physics2D.OverlapCircle(frontCheck.position, frontCheckRadius, wallLayer);
+    }
 
     [Header("Attack Spawn Points")]
     [SerializeField] private Transform meleeSpawnPoint;
@@ -49,6 +60,12 @@ public class BasePlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+
+        var col = GetComponent<Collider2D>();
+        if (col != null)
+        {
+            groundCheckSize.x = col.bounds.size.x * 0.95f;
+        }
 
         if (_input == null)
             _input = new PlayerInputActions();
@@ -103,8 +120,8 @@ public class BasePlayerController : MonoBehaviour
         anim.SetBool("IsInAir", isInAir);
 
         // Falling if airborne and moving downward
-bool isFalling = isInAir && rb.linearVelocity.y < -0.05f;
-anim.SetBool("IsFalling", isFalling);
+        bool isFalling = isInAir && rb.linearVelocity.y < -0.2f;
+        anim.SetBool("IsFalling", isFalling);
 
         bool isWalking = Mathf.Abs(horizontal) > 0.01f;
         anim.SetBool("IsWalking", isWalking && !isAttacking);
@@ -133,6 +150,18 @@ anim.SetBool("IsFalling", isFalling);
 
     private void FixedUpdate()
     {
+        float targetHorizontal = horizontal * currentCharacter.walkSpeed;
+
+        if (!IsTouchingWall() || !isGrounded)
+        {
+            rb.linearVelocity = new Vector2(targetHorizontal, rb.linearVelocity.y);
+        }
+        else
+        {
+            // optional: stop horizontal movement against wall
+            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
+        }
+
         if (isAttacking)
         {
             // Freeze horizontal movement but allow gravity
@@ -214,7 +243,15 @@ anim.SetBool("IsFalling", isFalling);
     {
         if (groundCheck == null) return;
         Gizmos.DrawWireCube(groundCheck.position, groundCheckSize);
+
+        if (frontCheck != null)
+        {
+            Gizmos.color = Color.red;
+            Gizmos.DrawWireSphere(frontCheck.position, frontCheckRadius);
+        }
     }
+
+
 
     // ================================
     // MELEE & RANGED
