@@ -9,8 +9,14 @@ public class CharacterDefinition : ScriptableObject
 
     [Header("Movement")]
     public float walkSpeed = 5f;
-    public bool canFly = false;
     public float jumpForce = 10f;
+
+    [Header("Flying Parameters")]
+    public bool canFly = false;
+    public bool limitFlight = true;
+    public float maxFlyTime;      // total flight time before you must land
+    public float flyRefillRate;     // fuel per second while grounded (1 = refills in maxFlyTime seconds)
+    public float flyJumpForce;     // optional: separate force while flying (or reuse jumpForce)
 
     [Header("Visuals / Animations")]
     public RuntimeAnimatorController animatorController;

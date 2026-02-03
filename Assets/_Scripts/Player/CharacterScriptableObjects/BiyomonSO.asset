@@ -15,8 +15,12 @@ MonoBehaviour:
   characterId: biyomon
   displayName: Biyomon
   walkSpeed: 5
+  jumpForce: 5
   canFly: 1
-  jumpForce: 3
+  limitFlight: 1
+  maxFlyTime: 1
+  flyRefillRate: 1
+  flyJumpForce: 3
   animatorController: {fileID: 9100000, guid: fc223e4ac7195dd4a8dc0aff7f5055fc, type: 2}
   defaultSprite: {fileID: 6447204552330265497, guid: bcc2dc28f22da8647a1cfede1291c5d5, type: 3}
   rangedProjectilePrefab: {fileID: 0}

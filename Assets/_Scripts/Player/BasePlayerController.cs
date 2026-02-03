@@ -62,6 +62,8 @@ public class BasePlayerController : MonoBehaviour
     private bool _meleeQueued;
     private bool _rangedQueued;
 
+    private float _flyTimeRemaining;
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -131,6 +133,17 @@ public class BasePlayerController : MonoBehaviour
 
         bool isWalking = Mathf.Abs(horizontal) > 0.01f;
         anim.SetBool("IsWalking", isWalking && !isAttacking);
+
+        if (isGrounded)
+        {
+            // refill fuel
+            if (currentCharacter.canFly && currentCharacter.limitFlight)
+            {
+                float refillPerSecond = currentCharacter.maxFlyTime * currentCharacter.flyRefillRate;
+                _flyTimeRemaining = Mathf.Min(currentCharacter.maxFlyTime,
+                    _flyTimeRemaining + refillPerSecond * Time.deltaTime);
+            }
+        }
 
         if (isAttacking)
         {
@@ -215,6 +228,8 @@ public class BasePlayerController : MonoBehaviour
         if (def.animatorController != null)
             anim.runtimeAnimatorController = def.animatorController;
 
+        _flyTimeRemaining = def.maxFlyTime; // start full (or 0 if you want)
+
         lastMeleeTime = -999f;
         lastRangedTime = -999f;
     }
@@ -224,13 +239,30 @@ public class BasePlayerController : MonoBehaviour
     // ================================
     private void HandleJump()
     {
-        if (currentCharacter.canFly || isGrounded)
+        // Normal jump from ground (everyone)
+        if (isGrounded)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, currentCharacter.jumpForce);
-
-            // Optional: immediately mark airborne so animation switches instantly
             anim.SetBool("IsInAir", true);
+            return;
         }
+
+        // Mid-air "flap" / fly boost (only flyers)
+        if (!currentCharacter.canFly)
+            return;
+
+        // If flight is limited, require fuel
+        if (currentCharacter.limitFlight && _flyTimeRemaining <= 0f)
+            return;
+
+        float force = currentCharacter.flyJumpForce > 0f ? currentCharacter.flyJumpForce : currentCharacter.jumpForce;
+
+        rb.linearVelocity = new Vector2(rb.linearVelocity.x, force);
+        anim.SetBool("IsInAir", true);
+
+        // Spend a chunk of fuel per flap (tweak this!)
+        if (currentCharacter.limitFlight)
+            _flyTimeRemaining -= 0.1f; // each press costs 0.15s worth of fuel
     }
 
     private bool IsGrounded()
