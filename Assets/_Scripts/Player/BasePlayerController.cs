@@ -309,33 +309,25 @@ public class BasePlayerController : MonoBehaviour
         if (currentCharacter.meleeHitboxPrefab == null) return;
 
         isAttacking = true;
+        anim.ResetTrigger("IsAttacking");
+        anim.SetTrigger("IsAttacking");   // <-- trigger FIRST
 
-        Vector3 basePos = meleeSpawnPoint != null
-            ? meleeSpawnPoint.position
-            : transform.position;
-
+        // spawn hitbox AFTER triggering
+        Vector3 basePos = meleeSpawnPoint != null ? meleeSpawnPoint.position : transform.position;
         float dir = facingLeft ? -1f : 1f;
         Vector3 spawnPos = basePos + Vector3.right * dir * 0.1f;
 
         GameObject hitboxGO = Instantiate(currentCharacter.meleeHitboxPrefab, spawnPos, Quaternion.identity);
 
-        // Flip visuals if needed
         Vector3 scale = hitboxGO.transform.localScale;
         scale.x = Mathf.Abs(scale.x) * dir;
         hitboxGO.transform.localScale = scale;
 
         if (hitboxGO.TryGetComponent<MeleeHitbox>(out var hitbox))
         {
-            hitbox.Initialize(
-                owner: transform,
-                followPoint: meleeSpawnPoint,
-                damage: (int)currentCharacter.meleeDamage,
-                lifetime: currentCharacter.meleeLifetime,
-                hitMask: projectileHitMask
-            );
+            hitbox.Initialize(transform, meleeSpawnPoint, (int)currentCharacter.meleeDamage,
+                currentCharacter.meleeLifetime, projectileHitMask);
         }
-
-        anim.SetTrigger("IsAttacking");
     }
 
     private void DoRangedAttack()
@@ -344,30 +336,20 @@ public class BasePlayerController : MonoBehaviour
         if (currentCharacter.rangedProjectilePrefab == null) return;
 
         isAttacking = true;
+        anim.ResetTrigger("IsAttacking");
+        anim.SetTrigger("IsAttacking");   // <-- trigger FIRST
 
         float dir = facingLeft ? -1f : 1f;
-
-        Vector3 spawnPos = projectileSpawnPoint != null
-            ? projectileSpawnPoint.position
-            : transform.position;
+        Vector3 spawnPos = projectileSpawnPoint != null ? projectileSpawnPoint.position : transform.position;
 
         GameObject projGO = Instantiate(currentCharacter.rangedProjectilePrefab, spawnPos, Quaternion.identity);
 
         if (projGO.TryGetComponent<Projectile>(out var proj))
         {
-            proj.Initialize(
-                owner: transform,
-                followPoint: projectileSpawnPoint,
-                dirX: dir,
-                speed: currentCharacter.rangedProjectileSpeed,
-                damage: currentCharacter.rangedDamage,
-                hoverTime: currentCharacter.rangedHoverTime,
-                lifetime: currentCharacter.rangedLifetime,
-                hitMask: projectileHitMask
-            );
+            proj.Initialize(transform, projectileSpawnPoint, dir,
+                currentCharacter.rangedProjectileSpeed, currentCharacter.rangedDamage,
+                currentCharacter.rangedHoverTime, currentCharacter.rangedLifetime, projectileHitMask);
         }
-
-        anim.SetTrigger("IsAttacking");
     }
 
 

@@ -15,14 +15,18 @@ MonoBehaviour:
   characterId: agumon
   displayName: Agumon
   walkSpeed: 4
-  canFly: 0
   jumpForce: 6
+  canFly: 0
+  limitFlight: 1
+  maxFlyTime: 0
+  flyRefillRate: 0
+  flyJumpForce: 0
   animatorController: {fileID: 9100000, guid: 6aaefbc5d2f7f5a46997d3937fe4819f, type: 2}
   defaultSprite: {fileID: 5400021928505507431, guid: bcc2dc28f22da8647a1cfede1291c5d5, type: 3}
   rangedProjectilePrefab: {fileID: 2680830935764052329, guid: 2fec67c3e5501714e9c206697d01239f, type: 3}
   rangedCooldown: 0.5
   rangedProjectileSpeed: 30
-  rangedDamage: 1
+  rangedDamage: 3
   rangedHoverTime: 0.25
   rangedLifetime: 3
   meleeHitboxPrefab: {fileID: 5503505460791601945, guid: 74c549d1b06b6b140a1fd9536eea637f, type: 3}
