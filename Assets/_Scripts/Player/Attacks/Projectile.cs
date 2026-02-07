@@ -14,7 +14,7 @@ public class Projectile : MonoBehaviour
     [SerializeField] private float hoverTime = 1f;
     [SerializeField] private float lifetime = 3f;
 
-
+    private ElementType damageType = ElementType.None;
 
     private Rigidbody2D rb;
 
@@ -36,7 +36,8 @@ public class Projectile : MonoBehaviour
         int damage,
         float hoverTime,
         float lifetime,
-        LayerMask hitMask)
+        LayerMask hitMask,
+        ElementType damageType)
     {
         this.owner = owner;
         this.followPoint = followPoint;
@@ -46,6 +47,7 @@ public class Projectile : MonoBehaviour
         this.hoverTime = Mathf.Max(0f, hoverTime);
         this.lifetime = Mathf.Max(0.1f, lifetime);
         this.hitMask = hitMask;
+        this.damageType = damageType;
 
         if (routine != null) StopCoroutine(routine);
         routine = StartCoroutine(HoverThenLaunch());
@@ -88,9 +90,10 @@ public class Projectile : MonoBehaviour
         if (((1 << other.gameObject.layer) & hitMask) == 0)
             return;
 
-        if (other.TryGetComponent<EnemyHealth>(out var health))
-            health.TakeDamage(damage);
-
-        Destroy(gameObject);
+        if (other.GetComponentInParent<EnemyHealth>() is EnemyHealth health)
+        {
+            health.TakeDamage(damage, damageType);
+            Destroy(gameObject);   // projectiles usually disappear on hit
+        }
     }
 }

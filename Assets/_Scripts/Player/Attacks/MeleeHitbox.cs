@@ -7,21 +7,24 @@ public class MeleeHitbox : MonoBehaviour
     private float lifetime;
 
     [SerializeField] private LayerMask hitMask;
-
     [SerializeField] private int damage = 1;
+
+    private ElementType damageType = ElementType.None;
 
     public void Initialize(
         Transform owner,
         Transform followPoint,
         int damage,
         float lifetime,
-        LayerMask hitMask)
+        LayerMask hitMask,
+        ElementType damageType = ElementType.None)   // <-- optional
     {
         this.owner = owner;
         this.followPoint = followPoint;
         this.damage = damage;
         this.lifetime = Mathf.Max(0.05f, lifetime);
         this.hitMask = hitMask;
+        this.damageType = damageType;
 
         Destroy(gameObject, this.lifetime);
     }
@@ -42,7 +45,11 @@ public class MeleeHitbox : MonoBehaviour
         if (((1 << other.gameObject.layer) & hitMask) == 0)
             return;
 
-        if (other.TryGetComponent<EnemyHealth>(out var health))
-            health.TakeDamage(damage);
+        if (other.GetComponentInParent<EnemyHealth>() is EnemyHealth health)
+        {
+            health.TakeDamage(damage, damageType);
+            // NOTE: Do NOT destroy melee hitbox here if you want multi-hit during its lifetime
+            // Destroy(gameObject);
+        }
     }
 }

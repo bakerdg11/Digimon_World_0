@@ -22,6 +22,9 @@ public class CharacterDefinition : ScriptableObject
     public RuntimeAnimatorController animatorController;
     public Sprite defaultSprite;
 
+    [Header("Types")]
+    public ElementType elementType = ElementType.None;
+
     [Header("Ranged Attack")]
     public GameObject rangedProjectilePrefab;
     public float rangedCooldown = 0.5f;

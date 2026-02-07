@@ -23,11 +23,12 @@ MonoBehaviour:
   flyJumpForce: 3
   animatorController: {fileID: 9100000, guid: fc223e4ac7195dd4a8dc0aff7f5055fc, type: 2}
   defaultSprite: {fileID: 6447204552330265497, guid: bcc2dc28f22da8647a1cfede1291c5d5, type: 3}
-  rangedProjectilePrefab: {fileID: 0}
+  elementType: 5
+  rangedProjectilePrefab: {fileID: 2680830935764052329, guid: c1dd06fad6ea4dd439f29fb6ed434394, type: 3}
   rangedCooldown: 0.5
-  rangedProjectileSpeed: 10
+  rangedProjectileSpeed: 30
   rangedDamage: 1
-  rangedHoverTime: 1
+  rangedHoverTime: 0.25
   rangedLifetime: 3
   meleeHitboxPrefab: {fileID: 0}
   meleeCooldown: 0.4

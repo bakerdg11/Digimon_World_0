@@ -325,8 +325,16 @@ public class BasePlayerController : MonoBehaviour
 
         if (hitboxGO.TryGetComponent<MeleeHitbox>(out var hitbox))
         {
-            hitbox.Initialize(transform, meleeSpawnPoint, (int)currentCharacter.meleeDamage,
-                currentCharacter.meleeLifetime, projectileHitMask);
+            Debug.Log($"Melee damage being applied: {(int)currentCharacter.meleeDamage}");
+            hitbox.Initialize(
+                owner: transform,
+                followPoint: meleeSpawnPoint,
+                damage: (int)currentCharacter.meleeDamage,
+                lifetime: currentCharacter.meleeLifetime,
+                hitMask: projectileHitMask,
+                damageType: ElementType.None // <-- or currentCharacter.elementType
+            );
+
         }
     }
 
@@ -346,9 +354,17 @@ public class BasePlayerController : MonoBehaviour
 
         if (projGO.TryGetComponent<Projectile>(out var proj))
         {
-            proj.Initialize(transform, projectileSpawnPoint, dir,
-                currentCharacter.rangedProjectileSpeed, currentCharacter.rangedDamage,
-                currentCharacter.rangedHoverTime, currentCharacter.rangedLifetime, projectileHitMask);
+            proj.Initialize(
+                owner: transform,
+                followPoint: projectileSpawnPoint,
+                dirX: dir,
+                speed: currentCharacter.rangedProjectileSpeed,
+                damage: currentCharacter.rangedDamage,
+                hoverTime: currentCharacter.rangedHoverTime,
+                lifetime: currentCharacter.rangedLifetime,
+                hitMask: projectileHitMask,
+                damageType: currentCharacter.elementType
+            );
         }
     }
 

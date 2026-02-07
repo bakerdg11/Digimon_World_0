@@ -126,7 +126,7 @@ GameObject:
   - component: {fileID: -8873332906549194962}
   - component: {fileID: -2738698246228134482}
   m_Layer: 0
-  m_Name: fireBallEffect
+  m_Name: FireProjectile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
