@@ -2858,6 +2858,7 @@ GameObject:
   - component: {fileID: 1603552290}
   - component: {fileID: 1603552294}
   - component: {fileID: 1603552295}
+  - component: {fileID: 1603552296}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -3119,6 +3120,18 @@ MonoBehaviour:
   characters:
   - {fileID: 11400000, guid: 4d7681cc89e61714c9654128ffd3c9bf, type: 2}
   - {fileID: 11400000, guid: 61c90ec34523ae049be741cc2141ec2c, type: 2}
+--- !u!114 &1603552296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1603552286}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32d98e71315c8b64db2f10374b919833, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Digivolve
 --- !u!1 &1803107311
 GameObject:
   m_ObjectHideFlags: 0

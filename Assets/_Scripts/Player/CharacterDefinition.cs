@@ -25,6 +25,11 @@ public class CharacterDefinition : ScriptableObject
     [Header("Types")]
     public ElementType elementType = ElementType.None;
 
+    [Header("Digivolution")]
+    public bool canDigivolve = false;
+    public CharacterDefinition digivolveTo;
+    public CharacterDefinition deDigivolveTo;
+
     [Header("Ranged Attack")]
     public GameObject rangedProjectilePrefab;
     public float rangedCooldown = 0.5f;

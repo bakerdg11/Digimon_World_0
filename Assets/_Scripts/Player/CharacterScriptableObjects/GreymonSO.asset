@@ -10,23 +10,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6538e95da2f3fd44883e3d9d2915e42b, type: 3}
-  m_Name: AgumonSO
+  m_Name: GreymonSO
   m_EditorClassIdentifier: Assembly-CSharp::CharacterDefinition
-  characterId: agumon
-  displayName: Agumon
-  walkSpeed: 4
-  jumpForce: 6
+  characterId: greymon
+  displayName: Greymon
+  walkSpeed: 6
+  jumpForce: 9
   canFly: 0
   limitFlight: 1
   maxFlyTime: 0
   flyRefillRate: 0
   flyJumpForce: 0
-  animatorController: {fileID: 9100000, guid: 6aaefbc5d2f7f5a46997d3937fe4819f, type: 2}
-  defaultSprite: {fileID: 5400021928505507431, guid: bcc2dc28f22da8647a1cfede1291c5d5, type: 3}
+  animatorController: {fileID: 9100000, guid: 866495c2d4bc169468cbcfbe084aa0d6, type: 2}
+  defaultSprite: {fileID: -3722703039949327569, guid: eae3d2f7b0f0d994aa05d82cd3e609e1, type: 3}
   elementType: 1
   canDigivolve: 1
-  digivolveTo: {fileID: 11400000, guid: ee67222c09a04f5449bc4ab645f80e8a, type: 2}
-  deDigivolveTo: {fileID: 0}
+  digivolveTo: {fileID: 0}
+  deDigivolveTo: {fileID: 11400000, guid: 4d7681cc89e61714c9654128ffd3c9bf, type: 2}
   rangedProjectilePrefab: {fileID: 2680830935764052329, guid: 2fec67c3e5501714e9c206697d01239f, type: 3}
   rangedCooldown: 0.5
   rangedProjectileSpeed: 30
