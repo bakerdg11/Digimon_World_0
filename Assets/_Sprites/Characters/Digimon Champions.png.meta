@@ -2984,15 +2984,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digimon Champions_82
+      name: Kabuterimon1
       rect:
         serializedVersion: 2
         x: 64
         y: 843
         width: 31
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3402,15 +3402,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digimon Champions_101
+      name: Kabuterimon2
       rect:
         serializedVersion: 2
         x: 64
         y: 811
         width: 31
         height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3666,15 +3666,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digimon Champions_113
+      name: Kabuterimon3
       rect:
         serializedVersion: 2
         x: 64
         y: 779
         width: 36
         height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3842,15 +3842,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digimon Champions_121
+      name: Kabuterimon4
       rect:
         serializedVersion: 2
         x: 64
         y: 731
         width: 31
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4018,15 +4018,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digimon Champions_129
+      name: Kabuterimon5
       rect:
         serializedVersion: 2
         x: 64
         y: 691
         width: 31
         height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4282,15 +4282,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digimon Champions_141
+      name: Kabuterimon6
       rect:
         serializedVersion: 2
         x: 65
         y: 651
         width: 30
         height: 38
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6790,7 +6790,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digimon Champions_255
+      name: Birdramon1
       rect:
         serializedVersion: 2
         x: 164
@@ -7010,7 +7010,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digimon Champions_265
+      name: Birdramon2
       rect:
         serializedVersion: 2
         x: 163
@@ -7186,7 +7186,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digimon Champions_273
+      name: Birdramon3
       rect:
         serializedVersion: 2
         x: 164
@@ -7516,7 +7516,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digimon Champions_288
+      name: Birdramon4
       rect:
         serializedVersion: 2
         x: 163
@@ -7692,7 +7692,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digimon Champions_296
+      name: Birdramon5
       rect:
         serializedVersion: 2
         x: 168
@@ -7890,7 +7890,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digimon Champions_305
+      name: Birdramon6
       rect:
         serializedVersion: 2
         x: 163
@@ -8961,11 +8961,16 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":1,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
+      Birdramon1: -3695118567467037384
+      Birdramon2: -2390596564918910134
+      Birdramon3: -1345411288055497518
+      Birdramon4: 3558648663475086087
+      Birdramon5: 8748120445655032503
+      Birdramon6: 1095249566595199154
       Digimon Champions_0: -2968193381783999151
       Digimon Champions_1: -7637610272836797962
       Digimon Champions_10: 1641865000326248993
       Digimon Champions_100: -8799456126739081180
-      Digimon Champions_101: 4521519014242199228
       Digimon Champions_102: 3059755961591885695
       Digimon Champions_103: 2867514329261382204
       Digimon Champions_104: 2684520442679618541
@@ -8978,7 +8983,6 @@ TextureImporter:
       Digimon Champions_110: 3202980775929772206
       Digimon Champions_111: 4227151524298954869
       Digimon Champions_112: 5365565516681598152
-      Digimon Champions_113: -8161308931457594244
       Digimon Champions_114: 2061194206429305285
       Digimon Champions_115: -4016282358049745896
       Digimon Champions_116: -3932851687240232115
@@ -8987,14 +8991,12 @@ TextureImporter:
       Digimon Champions_119: 8445415489089643434
       Digimon Champions_12: -8676945947840851608
       Digimon Champions_120: 1334927070138422178
-      Digimon Champions_121: -2976981678639722713
       Digimon Champions_122: -4316910279800357445
       Digimon Champions_123: -815435166270673981
       Digimon Champions_124: -158123728145235462
       Digimon Champions_126: 1720680025681395920
       Digimon Champions_127: -6337992542837739469
       Digimon Champions_128: 9216301845019435867
-      Digimon Champions_129: 193254776629545106
       Digimon Champions_13: -6372831404998588603
       Digimon Champions_130: 8905774636854734395
       Digimon Champions_131: 6874801414068418904
@@ -9007,7 +9009,6 @@ TextureImporter:
       Digimon Champions_139: 3715771622051480436
       Digimon Champions_14: -9096643562893019902
       Digimon Champions_140: -7246445099278047940
-      Digimon Champions_141: -7207349957754049651
       Digimon Champions_142: 4867872053938824770
       Digimon Champions_143: 4335327118923384832
       Digimon Champions_144: 8826708743976851680
@@ -9130,7 +9131,6 @@ TextureImporter:
       Digimon Champions_252: 3568851297578091253
       Digimon Champions_253: 4907078556394403618
       Digimon Champions_254: -6693164554210372368
-      Digimon Champions_255: -3695118567467037384
       Digimon Champions_256: -671450380375773106
       Digimon Champions_257: -1894536021159865764
       Digimon Champions_258: -5669815139468337490
@@ -9141,7 +9141,6 @@ TextureImporter:
       Digimon Champions_262: -5359050249306344250
       Digimon Champions_263: -7483686366391092561
       Digimon Champions_264: -5887254314973740127
-      Digimon Champions_265: -2390596564918910134
       Digimon Champions_266: 5940526821811241998
       Digimon Champions_267: 3896321356730765037
       Digimon Champions_268: 5879588212567356641
@@ -9150,7 +9149,6 @@ TextureImporter:
       Digimon Champions_270: 7232494411867788394
       Digimon Champions_271: -176803099547592270
       Digimon Champions_272: -2376594034758907291
-      Digimon Champions_273: -1345411288055497518
       Digimon Champions_274: -7852105112463063235
       Digimon Champions_275: 2438465870381153511
       Digimon Champions_276: -4640464759137194494
@@ -9166,7 +9164,6 @@ TextureImporter:
       Digimon Champions_285: 1699380857987927596
       Digimon Champions_286: -1853589854024547999
       Digimon Champions_287: -1602666172293959570
-      Digimon Champions_288: 3558648663475086087
       Digimon Champions_289: -1081587221432756808
       Digimon Champions_29: -7870825814344066959
       Digimon Champions_290: -5729756253567455083
@@ -9175,7 +9172,6 @@ TextureImporter:
       Digimon Champions_293: -1676117760237028603
       Digimon Champions_294: -2005762899141679978
       Digimon Champions_295: -5291654355527997685
-      Digimon Champions_296: 8748120445655032503
       Digimon Champions_297: 4781462514098804990
       Digimon Champions_298: 3798497901150581787
       Digimon Champions_299: -140698959373525390
@@ -9186,7 +9182,6 @@ TextureImporter:
       Digimon Champions_302: 1089819524787322793
       Digimon Champions_303: -9020947176181985188
       Digimon Champions_304: 394359554628902599
-      Digimon Champions_305: 1095249566595199154
       Digimon Champions_306: -5059275821052565196
       Digimon Champions_307: 4077846359082541305
       Digimon Champions_308: 8215862448315237606
@@ -9290,7 +9285,6 @@ TextureImporter:
       Digimon Champions_8: 1288060200972812832
       Digimon Champions_80: 1490486393022667469
       Digimon Champions_81: 1827141584579580324
-      Digimon Champions_82: -546567421283183168
       Digimon Champions_83: -5500266651736858102
       Digimon Champions_84: -1760656995819732533
       Digimon Champions_85: 3436406492169302920
@@ -9314,6 +9308,12 @@ TextureImporter:
       Greymon3: 2277228507956508855
       Greymon4: -8480101293708493594
       Greymon5: -2833963908176751811
+      Kabuterimon1: -546567421283183168
+      Kabuterimon2: 4521519014242199228
+      Kabuterimon3: -8161308931457594244
+      Kabuterimon4: -2976981678639722713
+      Kabuterimon5: 193254776629545106
+      Kabuterimon6: -7207349957754049651
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

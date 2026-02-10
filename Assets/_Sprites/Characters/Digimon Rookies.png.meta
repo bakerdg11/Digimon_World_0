@@ -2767,8 +2767,8 @@ TextureImporter:
         y: 367
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2899,8 +2899,8 @@ TextureImporter:
         y: 351
         width: 18
         height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3024,15 +3024,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elecmon1
+      name: Tentomon1
       rect:
         serializedVersion: 2
         x: 101
         y: 303
         width: 24
         height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3053,8 +3053,8 @@ TextureImporter:
         y: 326
         width: 18
         height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3222,15 +3222,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elecmon2
+      name: Tentomon2
       rect:
         serializedVersion: 2
         x: 101
         y: 278
         width: 24
         height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3251,8 +3251,8 @@ TextureImporter:
         y: 295
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3493,8 +3493,8 @@ TextureImporter:
         y: 258
         width: 19
         height: 22
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3640,15 +3640,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elecmon3
+      name: Tentomon3
       rect:
         serializedVersion: 2
         x: 99
         y: 247
         width: 25
         height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3794,15 +3794,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elecmon4
+      name: Tentomon4
       rect:
         serializedVersion: 2
         x: 102
         y: 223
         width: 25
         height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4080,15 +4080,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elecmon5
+      name: Tentomon5
       rect:
         serializedVersion: 2
         x: 101
         y: 191
         width: 24
         height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4256,15 +4256,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elecmon6
+      name: Tentomon6
       rect:
         serializedVersion: 2
         x: 102
         y: 159
         width: 24
         height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5210,12 +5210,6 @@ TextureImporter:
       Digimon Rookies_87: -8559467366429670477
       Digimon Rookies_88: -4190852514758207640
       Digimon Rookies_94: -1643678224135335001
-      Elecmon1: -2191686927427433870
-      Elecmon2: -4900026650757555776
-      Elecmon3: -5522448582577187560
-      Elecmon4: 4840673440379558410
-      Elecmon5: -3343584742569059620
-      Elecmon6: -8170499626532880262
       Elekmon1: -176355177104764353
       Elekmon2: 646307079021921241
       Elekmon3: -4128220180655785963
@@ -5335,6 +5329,12 @@ TextureImporter:
       Tapirmon3: -4382320610410066213
       Tapirmon4: 8044639392997523632
       Tapirmon5: -6314405353227959093
+      Tentomon1: -2191686927427433870
+      Tentomon2: -4900026650757555776
+      Tentomon3: -5522448582577187560
+      Tentomon4: 4840673440379558410
+      Tentomon5: -3343584742569059620
+      Tentomon6: -8170499626532880262
       Terriermon1: 3298159084096102339
       Terriermon2: 855939527254733323
       Terriermon3: 7482482546369065236

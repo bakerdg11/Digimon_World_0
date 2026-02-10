@@ -10,28 +10,28 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6538e95da2f3fd44883e3d9d2915e42b, type: 3}
-  m_Name: BiyomonSO
+  m_Name: TentomonSO
   m_EditorClassIdentifier: Assembly-CSharp::CharacterDefinition
-  characterId: biyomon
-  displayName: Biyomon
+  characterId: tentomon
+  displayName: Tentomon
   walkSpeed: 5
-  jumpForce: 5
+  jumpForce: 10
   canFly: 1
   limitFlight: 1
-  maxFlyTime: 1
-  flyRefillRate: 1
-  flyJumpForce: 3
-  animatorController: {fileID: 9100000, guid: fc223e4ac7195dd4a8dc0aff7f5055fc, type: 2}
-  defaultSprite: {fileID: 6447204552330265497, guid: bcc2dc28f22da8647a1cfede1291c5d5, type: 3}
-  elementType: 5
+  maxFlyTime: 0
+  flyRefillRate: 0
+  flyJumpForce: 0
+  animatorController: {fileID: 9100000, guid: 43ba990fb18bffa4b824ed93a9fed085, type: 2}
+  defaultSprite: {fileID: -2191686927427433870, guid: bcc2dc28f22da8647a1cfede1291c5d5, type: 3}
+  elementType: 4
   canDigivolve: 1
-  digivolveTo: {fileID: 11400000, guid: 868f046ad8d68be4d9a6650c1407baaa, type: 2}
+  digivolveTo: {fileID: 11400000, guid: 1ecb776a41a890b4cb8690be57e583ff, type: 2}
   deDigivolveTo: {fileID: 0}
-  rangedProjectilePrefab: {fileID: 2680830935764052329, guid: c1dd06fad6ea4dd439f29fb6ed434394, type: 3}
+  rangedProjectilePrefab: {fileID: 0}
   rangedCooldown: 0.5
-  rangedProjectileSpeed: 30
+  rangedProjectileSpeed: 10
   rangedDamage: 1
-  rangedHoverTime: 0.25
+  rangedHoverTime: 1
   rangedLifetime: 3
   meleeHitboxPrefab: {fileID: 0}
   meleeCooldown: 0.4

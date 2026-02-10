@@ -10,28 +10,28 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6538e95da2f3fd44883e3d9d2915e42b, type: 3}
-  m_Name: BiyomonSO
+  m_Name: KabuterimonSO
   m_EditorClassIdentifier: Assembly-CSharp::CharacterDefinition
-  characterId: biyomon
-  displayName: Biyomon
+  characterId: kabuterimon
+  displayName: Kabuterimon
   walkSpeed: 5
-  jumpForce: 5
+  jumpForce: 10
   canFly: 1
   limitFlight: 1
-  maxFlyTime: 1
-  flyRefillRate: 1
-  flyJumpForce: 3
-  animatorController: {fileID: 9100000, guid: fc223e4ac7195dd4a8dc0aff7f5055fc, type: 2}
-  defaultSprite: {fileID: 6447204552330265497, guid: bcc2dc28f22da8647a1cfede1291c5d5, type: 3}
-  elementType: 5
+  maxFlyTime: 0
+  flyRefillRate: 0
+  flyJumpForce: 0
+  animatorController: {fileID: 9100000, guid: 505cce8a23eef374391222c6816ad021, type: 2}
+  defaultSprite: {fileID: -546567421283183168, guid: eae3d2f7b0f0d994aa05d82cd3e609e1, type: 3}
+  elementType: 4
   canDigivolve: 1
-  digivolveTo: {fileID: 11400000, guid: 868f046ad8d68be4d9a6650c1407baaa, type: 2}
-  deDigivolveTo: {fileID: 0}
-  rangedProjectilePrefab: {fileID: 2680830935764052329, guid: c1dd06fad6ea4dd439f29fb6ed434394, type: 3}
+  digivolveTo: {fileID: 0}
+  deDigivolveTo: {fileID: 11400000, guid: 22bfc45654ee3d94dab51c81d824b6fa, type: 2}
+  rangedProjectilePrefab: {fileID: 0}
   rangedCooldown: 0.5
-  rangedProjectileSpeed: 30
+  rangedProjectileSpeed: 10
   rangedDamage: 1
-  rangedHoverTime: 0.25
+  rangedHoverTime: 1
   rangedLifetime: 3
   meleeHitboxPrefab: {fileID: 0}
   meleeCooldown: 0.4
