@@ -325,7 +325,6 @@ public class BasePlayerController : MonoBehaviour
 
         if (hitboxGO.TryGetComponent<MeleeHitbox>(out var hitbox))
         {
-            Debug.Log($"Melee damage being applied: {(int)currentCharacter.meleeDamage}");
             hitbox.Initialize(
                 owner: transform,
                 followPoint: meleeSpawnPoint,

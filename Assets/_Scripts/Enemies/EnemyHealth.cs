@@ -4,6 +4,8 @@ public class EnemyHealth : MonoBehaviour
 {
     public EnemyDefinition definition;
 
+    [SerializeField] private int energyReward = 25;
+
     public int CurrentHealth { get; private set; }
 
     private void Awake()
@@ -53,6 +55,10 @@ public class EnemyHealth : MonoBehaviour
 
     private void Die()
     {
+        var playerStats = FindFirstObjectByType<PlayerStats>();
+        if (playerStats != null)
+            playerStats.AddEnergy(energyReward);
+
         Destroy(gameObject);
     }
 }

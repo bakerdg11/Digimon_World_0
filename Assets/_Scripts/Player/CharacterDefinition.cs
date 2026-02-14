@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "NewCharacter", menuName = "Characters/Character Definition")]
@@ -27,8 +28,8 @@ public class CharacterDefinition : ScriptableObject
 
     [Header("Digivolution")]
     public bool canDigivolve = false;
-    public CharacterDefinition digivolveTo;
-    public CharacterDefinition deDigivolveTo;
+    public List<CharacterDefinition> digivolveOptions = new List<CharacterDefinition>();
+    public CharacterDefinition dedigivolveTo;
 
     [Header("Ranged Attack")]
     public GameObject rangedProjectilePrefab;
