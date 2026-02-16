@@ -21,12 +21,13 @@ MonoBehaviour:
   maxFlyTime: 1
   flyRefillRate: 1
   flyJumpForce: 3
-  animatorController: {fileID: 9100000, guid: fc223e4ac7195dd4a8dc0aff7f5055fc, type: 2}
+  animatorController: {fileID: 22100000, guid: ca76b2ec0dbd5694691e7628d925c0ba, type: 2}
   defaultSprite: {fileID: 6447204552330265497, guid: bcc2dc28f22da8647a1cfede1291c5d5, type: 3}
   elementType: 5
   canDigivolve: 1
-  digivolveTo: {fileID: 11400000, guid: 868f046ad8d68be4d9a6650c1407baaa, type: 2}
-  deDigivolveTo: {fileID: 0}
+  digivolveOptions:
+  - {fileID: 11400000, guid: 868f046ad8d68be4d9a6650c1407baaa, type: 2}
+  dedigivolveTo: {fileID: 0}
   rangedProjectilePrefab: {fileID: 2680830935764052329, guid: c1dd06fad6ea4dd439f29fb6ed434394, type: 3}
   rangedCooldown: 0.5
   rangedProjectileSpeed: 30

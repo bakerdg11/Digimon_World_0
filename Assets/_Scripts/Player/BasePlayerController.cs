@@ -11,6 +11,8 @@ public class BasePlayerController : MonoBehaviour
     private Rigidbody2D rb;
     private Animator anim;
 
+    public PlayerStats playerStats;
+
     // New Input System
     private PlayerInputActions _input;
     private Vector2 _moveInput;
@@ -165,6 +167,13 @@ public class BasePlayerController : MonoBehaviour
             _meleeQueued = false;
             _rangedQueued = false;
         }
+
+        if (Keyboard.current.tKey.wasPressedThisFrame)
+        {
+            playerStats.AddEnergy(50);
+        }
+
+
     }
 
     private void FixedUpdate()
@@ -232,6 +241,10 @@ public class BasePlayerController : MonoBehaviour
 
         lastMeleeTime = -999f;
         lastRangedTime = -999f;
+
+        var stats = GetComponent<PlayerStats>();
+        if (stats != null)
+            stats.OnCharacterChanged(def);
     }
 
     // ================================

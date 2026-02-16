@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PatamonOverrideController
+  m_Controller: {fileID: 9100000, guid: 6aaefbc5d2f7f5a46997d3937fe4819f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 32940b64be86d974cad545bdc0961af1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ca68414adff26f5468ea50746458a570, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: aeda5e6b40ec94940a45322386c220e8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d02b15aa296e6694f93a06ff79828691, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6e5cc332942e7f84fa98169cc128903e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d56404f1279abeb4eae6308867944411, type: 2}

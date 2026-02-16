@@ -34,7 +34,7 @@ public class Digivolve : MonoBehaviour
                 return;
 
             // must be full energy
-            if (stats == null || !stats.IsEnergyFull)
+            if (!stats.IsCurrentEnergyFull())
                 return;
 
             pendingTarget = current.digivolveOptions[0];
@@ -61,13 +61,14 @@ public class Digivolve : MonoBehaviour
     {
         if (!isDigivolving) return;
 
+        // spend energy on current form BEFORE applying pendingTarget
+        stats?.SpendAllEnergy();
+
         if (pendingTarget != null)
             player.ApplyCharacterDefinition(pendingTarget);
-
-        // spend energy (optional: set to 0 after digivolve)
-        stats?.TrySpendEnergy(stats.MaxEnergy);
 
         pendingTarget = null;
         isDigivolving = false;
     }
+
 }
