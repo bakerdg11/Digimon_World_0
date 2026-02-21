@@ -3,9 +3,13 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "NewEnemy", menuName = "Characters/Enemy Definition")]
 public class EnemyDefinition : ScriptableObject
 {
-    [Header("Identity")]
+    [Header("Names")]
     public string enemyId;
     public string displayName;
+
+    [Header("Visuals")]
+    public RuntimeAnimatorController animatorController;
+    public Sprite defaultSprite;
 
     [Header("Type")]
     public ElementType elementType = ElementType.None;
@@ -16,10 +20,6 @@ public class EnemyDefinition : ScriptableObject
 
     [Header("Movement")]
     public bool canFly = false;
-
-    [Header("Visuals")]
-    public RuntimeAnimatorController animatorController;
-    public Sprite defaultSprite;
 
     [Header("Combat (optional)")]
     public int contactDamage = 1;

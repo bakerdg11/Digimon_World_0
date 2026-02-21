@@ -48,4 +48,22 @@ public class CharacterSwap : MonoBehaviour
         currentIndex = index;
         playerController.ApplyCharacterDefinition(characters[currentIndex]);
     }
+
+    private void AddCharacterToRoster()
+    {
+
+    }
+
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("NewPlayableCharacter"))
+        {
+            Debug.Log("Player Added To Roster");
+        }
+    }
+
+
+
+
 }

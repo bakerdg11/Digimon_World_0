@@ -4,22 +4,11 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "NewCharacter", menuName = "Characters/Character Definition")]
 public class CharacterDefinition : ScriptableObject
 {
-    [Header("Identity")]
+    [Header("Names")]
     public string characterId;
     public string displayName;
 
-    [Header("Movement")]
-    public float walkSpeed = 5f;
-    public float jumpForce = 10f;
-
-    [Header("Flying Parameters")]
-    public bool canFly = false;
-    public bool limitFlight = true;
-    public float maxFlyTime;      // total flight time before you must land
-    public float flyRefillRate;     // fuel per second while grounded (1 = refills in maxFlyTime seconds)
-    public float flyJumpForce;     // optional: separate force while flying (or reuse jumpForce)
-
-    [Header("Visuals / Animations")]
+    [Header("Animation Controller and Sprite")]
     public RuntimeAnimatorController animatorController;
     public Sprite defaultSprite;
 
@@ -30,6 +19,22 @@ public class CharacterDefinition : ScriptableObject
     public bool canDigivolve = false;
     public List<CharacterDefinition> digivolveOptions = new List<CharacterDefinition>();
     public CharacterDefinition dedigivolveTo;
+
+    [Header("Movement Parameters")]
+    public float walkSpeed = 5f;
+    public float jumpForce = 10f;
+    public bool canDash = true;
+    public float dashSpeed = 14f;
+    public float dashDuration = 0.15f;
+    public float dashCooldown = 0.5f;
+    public bool dashStopsAtWall = true;
+
+    [Header("Flying Parameters")]
+    public bool canFly = false;
+    public bool limitFlight = true;
+    public float maxFlyTime;      // total flight time before you must land
+    public float flyRefillRate;     // fuel per second while grounded (1 = refills in maxFlyTime seconds)
+    public float flyJumpForce;     // optional: separate force while flying (or reuse jumpForce)
 
     [Header("Ranged Attack")]
     public GameObject rangedProjectilePrefab;
