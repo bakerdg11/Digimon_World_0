@@ -3128,7 +3128,7 @@ GameObject:
   - component: {fileID: 1059213800}
   m_Layer: 0
   m_Name: InteractableHitbox
-  m_TagString: NewPlayableCharacter
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3182,7 +3182,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.03158474, y: 1.2318482}
+  m_Offset: {x: -0.03158474, y: -0.037544966}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -3192,7 +3192,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 3.3626232, y: 2.9835916}
+  m_Size: {x: 3.3626232, y: 2.7754936}
   m_EdgeRadius: 0
 --- !u!1 &1065197006
 GameObject:
@@ -3332,6 +3332,7 @@ GameObject:
   - component: {fileID: 1082123352}
   - component: {fileID: 1082123351}
   - component: {fileID: 1082123350}
+  - component: {fileID: 1082123354}
   m_Layer: 0
   m_Name: PlayableCharacter
   m_TagString: Untagged
@@ -3373,17 +3374,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.0063171387, y: 1.1560422}
+  m_Offset: {x: -0.0063171387, y: 0.011507034}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 2.4, y: 2.3}
     newSize: {x: 2.4, y: 2.3}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 2.5287552, y: 2.3771427}
+  m_Size: {x: 2.5287552, y: 2.3910155}
   m_EdgeRadius: 0
 --- !u!50 &1082123351
 Rigidbody2D:
@@ -3479,13 +3480,26 @@ Transform:
   m_GameObject: {fileID: 1082123349}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 21.32, y: -2.23, z: 0}
+  m_LocalPosition: {x: -2.24, y: 3.89, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1059213799}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1082123354
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1082123349}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4224586b46ddf2347b7392262947f722, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterUnlockPickup
+  characterToUnlock: {fileID: 11400000, guid: 22bfc45654ee3d94dab51c81d824b6fa, type: 2}
 --- !u!1 &1144621225
 GameObject:
   m_ObjectHideFlags: 0
@@ -4609,11 +4623,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6670110531591050380, guid: 6df5227435d71b946bb102352d320b73, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.2
+      value: 5.25
       objectReference: {fileID: 0}
     - target: {fileID: 6670110531591050380, guid: 6df5227435d71b946bb102352d320b73, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.93
+      value: -1.73
       objectReference: {fileID: 0}
     - target: {fileID: 6670110531591050380, guid: 6df5227435d71b946bb102352d320b73, type: 3}
       propertyPath: m_LocalPosition.z
